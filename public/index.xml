@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaushik Bhat</title>
-    <link>https://kaushikbhat.com/</link>
-    <description>Recent content on Kaushik Bhat</description>
-    <generator>Hugo</generator>
+    <link>/</link>
+    <description>Kaushik Bhat</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 May 2024 22:26:11 +0530</lastBuildDate>
-    <atom:link href="https://kaushikbhat.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Hello World</title>
-      <link>https://kaushikbhat.com/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Wed, 01 May 2024 22:26:11 +0530</pubDate>
-      <guid>https://kaushikbhat.com/posts/hello-world/</guid>
-      <description>Heya! Still setting up my blog. Visit again in a few days</description>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-there&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#hello-there&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Hello there!
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Still setting up my blog. Please visit again in a few days&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

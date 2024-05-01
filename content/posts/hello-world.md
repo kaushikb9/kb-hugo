@@ -4,5 +4,5 @@ date = 2024-05-01T22:26:11+05:30
 draft = false
 +++
 
-## Heya!
-Still setting up my blog. Visit again in a few days
+# Hello there! 
+Still setting up my blog. Please visit again in a few days
