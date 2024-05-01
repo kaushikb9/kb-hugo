@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaushik Bhat</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kaushikbhat.com/</link>
     <description>Recent content on Kaushik Bhat</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 May 2024 22:26:11 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaushikbhat.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://kaushikbhat.com/posts/hello-world/</link>
       <pubDate>Wed, 01 May 2024 22:26:11 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://kaushikbhat.com/posts/hello-world/</guid>
       <description>Heya! Still setting up my blog. Visit again in a few days</description>
     </item>
   </channel>
