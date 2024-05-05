@@ -1,5 +1,5 @@
 +++
-title = 'Growth by debugging distractions'
+title = 'Debugging Distractions'
 date = 2024-05-05T12:10:09+05:30
 draft = false
 +++
