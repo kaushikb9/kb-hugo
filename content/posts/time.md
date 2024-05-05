@@ -14,8 +14,8 @@ An ideal day is when you work 100% on what you planned to achieve. But the reali
 - Read the interesting article
 - Help out a new teammate get onboarded
 - Learn that new tool and play around with it
-- Squash some bugs and add more tests
-- Refactor that code you always wanted to
+- Handle escalations from stakeholders
+- Prepare for leadership connects
 - Think of ways to improve the team's productivity
 
 The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets. There are so many random things which you need to get involved in whether you like or not. Morever, it is common knowledge that people who take the ownership of things beyond what is expected out of them, and add more value to their customers, are the ones who see faster growth in their careers. 

@@ -13,4 +13,4 @@ Today the internet has a sea of self-help content. While there are countless res
 
 The individuals I work with and people in my inner-circle are already proficient in their fields. Through this blog, I hope to delve deeper into topics relevant to professionals who are still navigating their path to success. I will try to share reflections on day-to-day experiences with a few occassional rants 😉
 
-Happy Blogging!
+Happy Blogging! 😎
