@@ -22,7 +22,7 @@ The longer someone has been part of a team, the larger their laundry list become
 
 So it is vital that we protect our time and focus on things that truly matter. Managing time is all about figuring out priorities. The question is how? The first advice everyone gives is to figure out [Urgent vs Important tasks](https://www.eisenhower.me/eisenhower-matrix/) - delegate more and schedule time for the ones you want to focus on. But it gets hard to properly adopt this framework unless you have a lot of autonomy with what you do. 
 
-## Unlocking your `Zone of Genius`
+## My Mental Model - The Zone of Genius
 
 This is the framework that I have been using for the last year. I first came across this term in a tweet (the concept comes from a [book](https://www.amazon.in/Genius-Zone-Breakthrough-Negative-Creativity/dp/1250246547))
 
