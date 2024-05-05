@@ -1,0 +1,34 @@
+baseURL: "https://kaushikbhat.com/"
+title: Kaushik Bhat
+paginate: 5
+theme: PaperMod
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+params:
+  homeInfoParams:
+    Title: Hi there 👋🏼
+    Content: Wandering thoughts on engineering management, productivity and personal growth
+  
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://twitter.com/kaushikb9"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/kaushikbhat/"
+    - name: "github"
+      url: "https://github.com/kaushikb9"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
