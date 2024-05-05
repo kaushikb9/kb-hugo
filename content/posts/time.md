@@ -1,7 +1,7 @@
 +++
-title = 'Debugging Distractions'
+title = 'Growth by debugging distractions'
 date = 2024-05-05T12:10:09+05:30
-draft = true
+draft = false
 +++
 
 We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
