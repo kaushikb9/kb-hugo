@@ -6,14 +6,22 @@
     <description>Recent content in Posts on Kaushik Bhat</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 May 2024 22:26:11 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:10:09 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time x Value</title>
+      <link>http://localhost:1313/posts/time-value/</link>
+      <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
+      <guid>http://localhost:1313/posts/time-value/</guid>
+      <description>We all struggle with time-management. We want to do a 100 different things but we have only so many hours every day. At work most of our hours are governed by stkeholders and teammates. We are overwhelemed with tasks of all kinds.
+This is fine for an entry-level role, but as your grow in your career, it is important that you protect your time. As a senior engineer or a lead you are expected to deliver value for your product and for your org</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Wed, 01 May 2024 22:26:11 +0530</pubDate>
+      <pubDate>Sun, 05 May 2024 12:08:51 +0530</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Hello there! Still setting up my blog. Please visit again in a few days</description>
+      <description>Ssup </description>
     </item>
   </channel>
 </rss>

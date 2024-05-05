@@ -17,7 +17,11 @@ minify:
 params:
   homeInfoParams:
     Title: Hi there 👋🏼
-    Content: Wandering thoughts on engineering management, productivity and personal growth
+    Content: >
+      Byte-sized ramblings on engineering management, productivity and personal growth
+  
+  defaultTheme: auto # to switch between dark or light according to browser theme
+  ShowReadingTime: true
   
   socialIcons: # optional
     - name: "twitter"
@@ -32,3 +36,23 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 5
+        - name: Blog
+          url: blog
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
