@@ -47,7 +47,7 @@ Next, I try to plot all my tasks against this matrix. I get something like this
 
 - P1: Things that I am accountable for and things that will move the needle - I try my best to accomplish these
 - P2: Important but may need not require my involvement all the time. I try to leverage my influence and see if it can be done without me spending too much time
-- P3: This is important for my own growth and for long-term progeess. I need to make time for it. If I am stretched too thin then I try to work with my manager and peers to get their buy-in (time, L&D budget, dedicated slots etc)
+- P3: This is important for my own growth and for long-term progress. I need to make time for it. If I am stretched too thin then I try to work with my manager and peers to get their buy-in (time, L&D budget, dedicated slots etc)
 - P4: Ignore, question why does it even need any attention
 
 **Note**: Daily planning rarely works. I always try to plan in weeks or sometimes in months whenever possible
