@@ -33,5 +33,13 @@ So, I finally purchased my domain and it just felt right that I need to host my 
       <description>Welcome to my own little space on the internet. I take deep interest in all things startups, engineering, football and outdoors.
 I have been part of few interesting companies where I led teams working on a wode range of engineering problems - ranging from building products for PMF to serving millions of requests everyday. I am currently an Engineering manager at Razorpay, building some of the core platforms powering multiple products.</description>
     </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ideas/</guid>
+      <description>This is a public list of ideas I want to work on
+Meta ideas for this site Add a notes section. The idea is from digital gardens Enable adding comments. Options https://cusdis.com/ https://github.com/mcnaveen/SupaComments https://isso-comments.de/ https://staticman.net/ https://cloudcannon.com/jamstack-ecosystem/commenting/ Enable RSS feeds Add email sibscription Blog about Role of a Tech Lead and how it is different from a Mid-Senior Engineer Hiring an Engineering Manager. My expectations Solving Tech Debt is so much more.</description>
+    </item>
   </channel>
 </rss>

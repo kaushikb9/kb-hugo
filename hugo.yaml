@@ -53,6 +53,9 @@ languages:
         - name: Blog
           url: blog
           weight: 5
+        - name: Ideas
+          url: ideas
+          weight: 5
         - name: Search
           url: search/
           weight: 10
