@@ -23,3 +23,5 @@ This is a public list of ideas I want to work on
 - Hiring an Engineering Manager. My expectations
 - Solving Tech Debt is so much more. Think about Product Debt as well
 - Challenges in moving up the ladder. Dev to Manager to Director
+- Learnings for a New vs Senior Manager (art of conversation vs budgets)
+- Driving a good RCA culture. Experiences of owning cross-team RCAs
