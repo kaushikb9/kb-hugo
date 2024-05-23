@@ -12,7 +12,8 @@ Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace u
 
 **Location**: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway)
 [Google Maps](https://maps.app.goo.gl/7NiHWDkgGP24HGMZ7) (just for the location, don’t bother reading reviews)
-**Trail**: 3.5km, 2 hrs
+
+**Trail**: Easy 3.5 kms, 2 hrs
 
 ![Handi Gundi](handi-gundi.jpeg)
 
