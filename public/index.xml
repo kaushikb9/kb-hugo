@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kaushik Bhat</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kaushikbhat.com/</link>
     <description>Recent content on Kaushik Bhat</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 May 2024 10:30:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaushikbhat.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Serendipity Hikes - Episode 1</title>
-      <link>http://localhost:1313/hikes/serendipity-1/</link>
+      <link>https://kaushikbhat.com/hikes/serendipity-1/</link>
       <pubDate>Thu, 23 May 2024 10:30:00 +0530</pubDate>
-      <guid>http://localhost:1313/hikes/serendipity-1/</guid>
+      <guid>https://kaushikbhat.com/hikes/serendipity-1/</guid>
       <description>🧘🏼 find your tribe on the trail
 Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.
 ⛰️ Handi Gundi Hilltop Location: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway) Google Maps (just for the location, don’t bother reading reviews) Trail: 3.5km, 2 hrs
@@ -20,34 +20,34 @@ Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace u
     </item>
     <item>
       <title>Debugging Distractions</title>
-      <link>http://localhost:1313/posts/time/</link>
+      <link>https://kaushikbhat.com/posts/time/</link>
       <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
-      <guid>http://localhost:1313/posts/time/</guid>
+      <guid>https://kaushikbhat.com/posts/time/</guid>
       <description>We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
 An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.
 Propose a new idea for that feature Review the doc shared on Slack Read the interesting article Help out a new teammate get onboarded Learn that new tool and play around with it Handle escalations from stakeholders Prepare for leadership connects Think of ways to improve the team&amp;rsquo;s productivity The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets.</description>
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://kaushikbhat.com/posts/hello/</link>
       <pubDate>Wed, 01 May 2024 12:08:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://kaushikbhat.com/posts/hello/</guid>
       <description>Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.
 So, I finally purchased my domain and it just felt right that I need to host my own content.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://kaushikbhat.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://kaushikbhat.com/about/</guid>
       <description>Welcome to my own little space on the internet. I take deep interest in all things startups, engineering, football and outdoors.
 I have been part of few interesting companies where I led teams working on a wode range of engineering problems - ranging from building products for PMF to serving millions of requests everyday. I am currently an Engineering manager at Razorpay, building some of the core platforms powering multiple products.</description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>http://localhost:1313/ideas/</link>
+      <link>https://kaushikbhat.com/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ideas/</guid>
+      <guid>https://kaushikbhat.com/ideas/</guid>
       <description>This is a public list of ideas I want to work on
 Meta ideas for this site Add a notes section. The idea is from digital gardens Enable adding comments. Options https://cusdis.com/ https://github.com/mcnaveen/SupaComments https://isso-comments.de/ https://staticman.net/ https://cloudcannon.com/jamstack-ecosystem/commenting/ Enable RSS feeds Add email sibscription Blog about Role of a Tech Lead and how it is different from a Mid-Senior Engineer Hiring an Engineering Manager. My expectations Solving Tech Debt is so much more.</description>
     </item>

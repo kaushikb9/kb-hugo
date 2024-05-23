@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Kaushik Bhat</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://kaushikbhat.com/posts/</link>
     <description>Recent content in Posts on Kaushik Bhat</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 May 2024 12:10:09 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaushikbhat.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debugging Distractions</title>
-      <link>http://localhost:1313/posts/time/</link>
+      <link>https://kaushikbhat.com/posts/time/</link>
       <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
-      <guid>http://localhost:1313/posts/time/</guid>
+      <guid>https://kaushikbhat.com/posts/time/</guid>
       <description>We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
 An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.
 Propose a new idea for that feature Review the doc shared on Slack Read the interesting article Help out a new teammate get onboarded Learn that new tool and play around with it Handle escalations from stakeholders Prepare for leadership connects Think of ways to improve the team&amp;rsquo;s productivity The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets.</description>
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://kaushikbhat.com/posts/hello/</link>
       <pubDate>Wed, 01 May 2024 12:08:51 +0530</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://kaushikbhat.com/posts/hello/</guid>
       <description>Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.
 So, I finally purchased my domain and it just felt right that I need to host my own content.</description>
     </item>
