@@ -1,5 +1,5 @@
 +++
-title = 'Serendipity Hikes - Episode 1'
+title = 'Serendipity Hikes'
 date = 2024-05-23T10:30:00+05:30
 draft = false
 +++
@@ -8,13 +8,13 @@ draft = false
 
 Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.
 
-## ⛰️ Handi Gundi Hilltop
+## ⛰️ Episode 1 - Handi Gundi Hilltop
 
 **Location**: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway)
 [Google Maps](https://maps.app.goo.gl/7NiHWDkgGP24HGMZ7) (just for the location, don’t bother reading reviews)
 **Trail**: 3.5km, 2 hrs
 
-![Handi Gundi](/handi-gundi.jpeg)
+![Handi Gundi](handi-gundi.jpeg)
 
 🚗 Start from your homes no later than 6am. The earlier we go, the lesser chances of ☀️
 
@@ -24,7 +24,7 @@ Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace u
 
 🌊 If we feel that the hike is going to be complicated then there is a pond nearby which can be an alternative to chill and relax. Some say you can swim, but do this at your own risk
 
-![Handi Gundi Pond](/handi-gundi-pond.png)
+![Handi Gundi Pond](handi-gundi-pond.png)
 
 # 🔔 Things to carry
 
