@@ -20,6 +20,6 @@ First step is to draw a `skill vs will` matrix and identify which quadrant your 
 
 **S4**: High-skill and high-will. These are your high performers and innovators. They not only get things done creatively but also identify new challenges for the team to tackle. You should **DELEGATE** some of your core/team responsibilities to them, giving them the opportunity to grow to the next level. These are the ones who create bandwidth for you to operate more strategically.
 
-**Side note**: it's a healthy sign if an individual is going from one segment to another. It indicates that they are growing and taking up new challenges. On the contrary if someone is sitting in segment for too long, then there is something for the manager and the org to introspect about.
+**Side note**: it's a healthy sign if an individual is going from one segment to another. It indicates that they are growing and taking up new challenges. On the contrary if someone is sitting in segment for too long, then that is something for the manager and the org to introspect about.
 
 A good leader knows when to wear different hats - manager / coach / peer / enabler. Most managers micro-manage when we should be empowering someone or delegating when we should be giving directions. This framework should help identify what role to play when.
