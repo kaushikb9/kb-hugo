@@ -6,7 +6,7 @@ draft = false
 
 We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
 
-![everyday](/adhoc-day.png)
+![everyday](adhoc-day.png)
 
 An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.
 - Propose a new idea for that feature
@@ -39,10 +39,10 @@ First step is to figure out my levers - it could be anything:
 - `my sphere of influence` vs `impact for the org`
 
 For simplicity's sake, I have plotted it as `me` *(everything that I want to do)* vs `org` *(everything that is expected out me)*
-![matrix-1](/matrix-1.png)
+![matrix-1](matrix-1.png)
 
 Next, I try to plot all my tasks against this matrix. I get something like this
-![matrix-2](/matrix-2.png)
+![matrix-2](matrix-2.png)
 
 
 - P1: Things that I am accountable for and things that will move the needle - I try my best to accomplish these

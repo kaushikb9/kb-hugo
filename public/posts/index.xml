@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Kaushik Bhat</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 12:10:09 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 14:40:51 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Situational Leadership</title>
+      <link>http://localhost:1313/posts/skill-will/</link>
+      <pubDate>Sun, 09 Jun 2024 14:40:51 +0530</pubDate>
+      <guid>http://localhost:1313/posts/skill-will/</guid>
+      <description>I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.
+I recently attended a leadership workshop on &amp;ldquo;Situational Leadership&amp;rdquo; which made good sense.</description>
+    </item>
     <item>
       <title>Debugging Distractions</title>
       <link>http://localhost:1313/posts/time/</link>
