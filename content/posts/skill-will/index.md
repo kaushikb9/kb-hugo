@@ -14,11 +14,11 @@ First step is to draw a `skill vs will` matrix and identify which quadrant your 
 
 **S1**: High-will but low-skill. These team members are typically freshers or individuals who have recently changed roles. They are enthusiastic about their new job and eager to learn. They need **DIRECTION** and sometimes even hand-holding until they can figure things out on their own.
 
-**S2**: Low-skill and low-will. These are your laggards. You need to be a **COACH** to them. A good coach pushes hard but also understands their limits. After a few cycles of feedback, you should evaluate if they are dragging the team down and if it is worth retaining them.
+**S2**: Low-skill and low-will. These are your laggards. Be a **COACH** to them. A good coach pushes hard but also understands their limits. After a few cycles of feedback, you should evaluate if they are dragging the team down and if it is worth retaining them.
 
 **S3**: High-skill but low-will. These team members get things done and have potential, but they are not challenging themselves to go above and beyond. Sometimes, it may be due to a lack of exposure, and with the right opportunities, they can rise to the challenge. They need your **SUPPORT** and guidance. With the right motivation and alignment, they can push forward.
 
-**S4**: High-skill and high-will. These are your high performers and innovators. They not only get things done creatively but also identify new challenges for the team to tackle. You should **DELEGATE** some of your core responsibilities to them, giving them the opportunity to grow to the next level.
+**S4**: High-skill and high-will. These are your high performers and innovators. They not only get things done creatively but also identify new challenges for the team to tackle. You should **DELEGATE** some of your core/team responsibilities to them, giving them the opportunity to grow to the next level. These are the ones who create bandwidth for you to operate more strategically.
 
 **Side note**: it's a healthy sign if an individual is going from one segment to another. It indicates that they are growing and taking up new challenges. On the contrary if someone is sitting in segment for too long, then there is something for the manager and the org to introspect about.
 
