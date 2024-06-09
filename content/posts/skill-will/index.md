@@ -8,6 +8,8 @@ I am skeptical of frameworks that prescribe a one-size-fits-all approach to exec
 
 I recently attended a leadership workshop on ["Situational Leadership"](https://situational.com/situational-leadership) which made good sense. The idea is to indentify what stage of performance and maturity one's team-members fit into and accordingly play a different role to help them succeed. The official docs are all fancy so I try to simplify this per my understanding.
 
+A good leader knows when to wear different hats - manager / coach / peer / enabler. Most managers micro-manage when they should be empowering someone or delegating when they should be giving directions. This frameowrk gives a mental model on how to think about this.
+
 First step is to draw a `skill vs will` matrix and identify which quadrant your team-members belong to. **Skill** refers to core-competency expected at one's current role. **Will** refers to a broad range of things - willing to be a team player, excitement to take up new challenges, confidence on owning large projects etc
 
 ![matrix-1](quadrant-role.png)
@@ -21,5 +23,3 @@ First step is to draw a `skill vs will` matrix and identify which quadrant your 
 **S4**: High-skill and high-will. These are your high performers and innovators. They not only get things done creatively but also identify new challenges for the team to tackle. You should **DELEGATE** some of your core/team responsibilities to them, giving them the opportunity to grow to the next level. These are the ones who create bandwidth for you to operate more strategically.
 
 **Side note**: it's a healthy sign if an individual is going from one segment to another. It indicates that they are growing and taking up new challenges. On the contrary if someone is sitting in segment for too long, then that is something for the manager and the org to introspect about.
-
-A good leader knows when to wear different hats - manager / coach / peer / enabler. Most managers micro-manage when we should be empowering someone or delegating when we should be giving directions. This framework should help identify what role to play when.
