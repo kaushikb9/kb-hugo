@@ -9,11 +9,9 @@ Yesterday was Ugadi / Gudi Padwa (and many other spring festivals across India).
 
 Meanwhile, a quiet escalation was unfolding at work. One of our customers (no names here) saw a massive traffic spike on their app. Escalations started coming in. Turns out, the app helps people create image creatives for WhatsApp — the kind you see in family groups wishing “Good Morning” and “Happy Diwali”.
 
-What surprised me: this app sees serious volumes. It serves a real need. And most people I know have probably never heard of it.
+What surprised me: this app sees serious volumes. It serves a real need. And most people I know have probably never heard of it. Almost like a Canva — but built for the rhythms of small towns, vernacular culture, and WhatsApp-native users.
 
-It reminded me of a throwaway comment I made:  
-> *Indira Nagar is rooting for CRED. The rest of India is getting festive on WhatsApp.*
+I found myself saying, half-jokingly:
+> *Indira Nagar is rooting for "that" shiny app. The rest of India is running their business on Whatsapp*
 
-Almost like a Canva — but built for the rhythms of small towns, vernacular culture, and WhatsApp-native users.
-
-It’s a sharp contrast to the kind of apps that dominate pitch decks and headlines. A quiet reminder that the most interesting businesses often start with problems many of us laugh off — until they’re too big to ignore.
+It’s a sharp contrast to the kind of apps that dominate pitch decks and headlines. A quiet reminder that the most interesting businesses often start with problems many of us laugh off, until they’re too big to ignore.
