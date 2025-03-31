@@ -5,7 +5,7 @@ type: notes
 layout: single
 ---
 
-Yesterday was Ugadi / Gudi Padwa (and many other spring festivals across India). I was enjoying lunch with a few friends and somewhere between a rant about the state of Bollywood and a conversation on our culture, the conversation turned into a debate about **what India should do vs what India really wants**.  
+Yesterday was Ugadi / Gudi Padwa (and many other spring festivals across India). I was enjoying lunch with a few friends and somewhere between a rant about the state of Bollywood and our different cultures, the conversation turned into a debate about **what India should do vs what India really wants**.  
 
 Meanwhile, a quiet escalation was unfolding at work. One of our customers (no names here) saw a massive traffic spike on their app. Escalations started coming in. Turns out, the app helps people create image creatives for WhatsApp — the kind you see in family groups wishing “Good Morning” and “Happy Diwali”.
 
