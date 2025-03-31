@@ -24,6 +24,11 @@ params:
   defaultTheme: auto # to switch between dark or light according to browser theme
   ShowReadingTime: true
   
+  social:
+    twitter: "kaushikb9"
+    linkedin: "kaushikbhat"
+    github: "kaushikb9"
+  
   socialIcons: # optional
     - name: "twitter"
       url: "https://twitter.com/kaushikb9"
@@ -46,6 +51,7 @@ languages:
       category: categories
       tag: tags
       series: series
+      social: social
     menu:
       main:
         - name: About

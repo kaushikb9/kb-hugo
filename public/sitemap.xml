@@ -41,6 +41,8 @@
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
+    <loc>http://localhost:1313/social/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
