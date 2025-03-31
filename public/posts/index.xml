@@ -4,7 +4,7 @@
     <title>Posts on Kaushik Bhat</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Kaushik Bhat</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 14:40:51 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,25 +13,37 @@
       <link>http://localhost:1313/posts/skill-will/</link>
       <pubDate>Sun, 09 Jun 2024 14:40:51 +0530</pubDate>
       <guid>http://localhost:1313/posts/skill-will/</guid>
-      <description>I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.
-I recently attended a leadership workshop on &amp;ldquo;Situational Leadership&amp;rdquo; which made good sense.</description>
+      <description>&lt;p&gt;I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.&lt;/p&gt;
+&lt;p&gt;I recently attended a leadership workshop on &lt;a href=&#34;https://situational.com/situational-leadership&#34;&gt;&amp;ldquo;Situational Leadership&amp;rdquo;&lt;/a&gt; which made good sense. The idea is to indentify what stage of performance and maturity one&amp;rsquo;s team-members fit into and accordingly play a different role to help them succeed. The official docs are all fancy so I try to simplify this per my understanding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debugging Distractions</title>
       <link>http://localhost:1313/posts/time/</link>
       <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
       <guid>http://localhost:1313/posts/time/</guid>
-      <description>We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
-An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.
-Propose a new idea for that feature Review the doc shared on Slack Read the interesting article Help out a new teammate get onboarded Learn that new tool and play around with it Handle escalations from stakeholders Prepare for leadership connects Think of ways to improve the team&amp;rsquo;s productivity The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets.</description>
+      <description>&lt;p&gt;We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;adhoc-day.png&#34; alt=&#34;everyday&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Propose a new idea for that feature&lt;/li&gt;
+&lt;li&gt;Review the doc shared on Slack&lt;/li&gt;
+&lt;li&gt;Read the interesting article&lt;/li&gt;
+&lt;li&gt;Help out a new teammate get onboarded&lt;/li&gt;
+&lt;li&gt;Learn that new tool and play around with it&lt;/li&gt;
+&lt;li&gt;Handle escalations from stakeholders&lt;/li&gt;
+&lt;li&gt;Prepare for leadership connects&lt;/li&gt;
+&lt;li&gt;Think of ways to improve the team&amp;rsquo;s productivity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets. There are so many random things which you need to get involved in whether you like or not. Morever, it is common knowledge that people who take the ownership of things beyond what is expected out of them, and add more value to their customers, are the ones who see faster growth in their careers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Wed, 01 May 2024 12:08:51 +0530</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description>Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.
-So, I finally purchased my domain and it just felt right that I need to host my own content.</description>
+      <description>&lt;p&gt;Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.&lt;/p&gt;
+&lt;p&gt;So, I finally purchased my domain and it just felt right that I need to host my own content. My goal is to use this platform as a journal and make writing a habit, aiming for at least two posts per month and striving for a total of 20 posts by the end of 2024.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

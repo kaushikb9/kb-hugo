@@ -4,7 +4,7 @@
     <title>Kaushik Bhat</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Kaushik Bhat</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 14:40:51 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,52 +13,91 @@
       <link>http://localhost:1313/posts/skill-will/</link>
       <pubDate>Sun, 09 Jun 2024 14:40:51 +0530</pubDate>
       <guid>http://localhost:1313/posts/skill-will/</guid>
-      <description>I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.
-I recently attended a leadership workshop on &amp;ldquo;Situational Leadership&amp;rdquo; which made good sense.</description>
+      <description>&lt;p&gt;I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.&lt;/p&gt;
+&lt;p&gt;I recently attended a leadership workshop on &lt;a href=&#34;https://situational.com/situational-leadership&#34;&gt;&amp;ldquo;Situational Leadership&amp;rdquo;&lt;/a&gt; which made good sense. The idea is to indentify what stage of performance and maturity one&amp;rsquo;s team-members fit into and accordingly play a different role to help them succeed. The official docs are all fancy so I try to simplify this per my understanding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Serendipity Hikes</title>
       <link>http://localhost:1313/hikes/hello-serendipity/</link>
       <pubDate>Thu, 23 May 2024 10:30:00 +0530</pubDate>
       <guid>http://localhost:1313/hikes/hello-serendipity/</guid>
-      <description>🧘🏼 find your tribe on the trail
-Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.
-⛰️ Episode 1 - Handi Gundi Hilltop Location: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway) Google Maps (just for the location, don’t bother reading reviews)
-Trail: Easy 3.5 kms, 2 hrs
-🚗 Start from your homes no later than 6am.</description>
+      <description>&lt;p&gt;🧘🏼 &lt;em&gt;find your tribe on the trail&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.&lt;/p&gt;
+&lt;h2 id=&#34;episode-1---handi-gundi-hilltop&#34;&gt;⛰️ Episode 1 - Handi Gundi Hilltop&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway)
+&lt;a href=&#34;https://maps.app.goo.gl/7NiHWDkgGP24HGMZ7&#34;&gt;Google Maps&lt;/a&gt; (just for the location, don’t bother reading reviews)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trail&lt;/strong&gt;: Easy 3.5 kms, 2 hrs&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;handi-gundi.jpeg&#34; alt=&#34;Handi Gundi&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;🚗 Start from your homes no later than 6am. The earlier we go, the lesser chances of ☀️&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debugging Distractions</title>
       <link>http://localhost:1313/posts/time/</link>
       <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
       <guid>http://localhost:1313/posts/time/</guid>
-      <description>We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.
-An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.
-Propose a new idea for that feature Review the doc shared on Slack Read the interesting article Help out a new teammate get onboarded Learn that new tool and play around with it Handle escalations from stakeholders Prepare for leadership connects Think of ways to improve the team&amp;rsquo;s productivity The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets.</description>
+      <description>&lt;p&gt;We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;adhoc-day.png&#34; alt=&#34;everyday&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;An ideal day is when you work 100% on what you planned to achieve. But the reality is so much different.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Propose a new idea for that feature&lt;/li&gt;
+&lt;li&gt;Review the doc shared on Slack&lt;/li&gt;
+&lt;li&gt;Read the interesting article&lt;/li&gt;
+&lt;li&gt;Help out a new teammate get onboarded&lt;/li&gt;
+&lt;li&gt;Learn that new tool and play around with it&lt;/li&gt;
+&lt;li&gt;Handle escalations from stakeholders&lt;/li&gt;
+&lt;li&gt;Prepare for leadership connects&lt;/li&gt;
+&lt;li&gt;Think of ways to improve the team&amp;rsquo;s productivity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The longer someone has been part of a team, the larger their laundry list becomes, and the more overwhelming it gets. There are so many random things which you need to get involved in whether you like or not. Morever, it is common knowledge that people who take the ownership of things beyond what is expected out of them, and add more value to their customers, are the ones who see faster growth in their careers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Wed, 01 May 2024 12:08:51 +0530</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description>Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.
-So, I finally purchased my domain and it just felt right that I need to host my own content.</description>
+      <description>&lt;p&gt;Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.&lt;/p&gt;
+&lt;p&gt;So, I finally purchased my domain and it just felt right that I need to host my own content. My goal is to use this platform as a journal and make writing a habit, aiming for at least two posts per month and striving for a total of 20 posts by the end of 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Welcome to my own little space on the internet. I take deep interest in all things startups, engineering, football and outdoors.
-I have been part of few interesting companies where I led teams working on a wide range of engineering problems - ranging from building products for PMF to serving millions of requests everyday. I am currently an Engineering manager at Razorpay, building some of the core platforms powering our products.</description>
+      <description>&lt;p&gt;Welcome to my own little space on the internet. I take deep interest in all things startups, engineering, football and outdoors.&lt;/p&gt;
+&lt;p&gt;I have been part of few interesting companies where I led teams working on a wide range of engineering problems - ranging from building products  for PMF to serving millions of requests everyday. I am currently an Associate Director of Engineeringat &lt;a href=&#34;https://razorpay.com/&#34;&gt;Razorpay&lt;/a&gt;, building some of the core platforms powering our products.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ideas</title>
       <link>http://localhost:1313/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ideas/</guid>
-      <description>This is a public list of ideas I want to work on
-Meta ideas for this site Add a notes section. The idea is from digital gardens Enable adding comments. Options https://cusdis.com/ https://github.com/mcnaveen/SupaComments https://isso-comments.de/ https://staticman.net/ https://cloudcannon.com/jamstack-ecosystem/commenting/ Enable RSS feeds Add email sibscription Blog about Role of a Tech Lead and how it is different from a Mid-Senior Engineer Hiring an Engineering Manager. My expectations Solving Tech Debt is so much more.</description>
+      <description>&lt;p&gt;This is a public list of ideas I want to work on&lt;/p&gt;
+&lt;h2 id=&#34;meta-ideas-for-this-site&#34;&gt;Meta ideas for this site&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add a &lt;code&gt;notes&lt;/code&gt; section. The idea is from &lt;a href=&#34;https://salman.io/notes/digital-gardens/&#34;&gt;digital gardens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Enable adding comments. Options
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cusdis.com/&#34;&gt;https://cusdis.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mcnaveen/SupaComments&#34;&gt;https://github.com/mcnaveen/SupaComments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isso-comments.de/&#34;&gt;https://isso-comments.de/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://staticman.net/&#34;&gt;https://staticman.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudcannon.com/jamstack-ecosystem/commenting/&#34;&gt;https://cloudcannon.com/jamstack-ecosystem/commenting/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Enable RSS feeds&lt;/li&gt;
+&lt;li&gt;Add email sibscription&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;blog-about&#34;&gt;Blog about&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Role of a Tech Lead and how it is different from a Mid-Senior Engineer&lt;/li&gt;
+&lt;li&gt;Hiring an Engineering Manager. My expectations&lt;/li&gt;
+&lt;li&gt;Solving Tech Debt is so much more. Think about Product Debt as well&lt;/li&gt;
+&lt;li&gt;Challenges in moving up the ladder. Dev to Manager to Director&lt;/li&gt;
+&lt;li&gt;Learnings for a New vs Senior Manager (art of conversation vs budgets)&lt;/li&gt;
+&lt;li&gt;Driving a good RCA culture. Experiences of owning cross-team RCAs&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

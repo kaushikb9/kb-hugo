@@ -26,7 +26,7 @@ So it is vital that we protect our time and focus on things that truly matter. M
 
 This is the framework that I have been using for the last year. I first came across this term in a tweet (the concept comes from a [book](https://www.amazon.in/Genius-Zone-Breakthrough-Negative-Creativity/dp/1250246547))
 
-{{< twitter user="SahilBloom" id="1449339852223287300" >}}
+{{< x user="SahilBloom" id="1449339852223287300" >}}
 
 I particulary like this line **Your Zone of Genius is where your interests, passions and skills align**. The idea is that you play to your strengths while you work to unlock your next set of skills. 
 

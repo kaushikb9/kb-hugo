@@ -4,7 +4,7 @@
     <title>Kaushik Bhat</title>
     <link>http://localhost:1313/hikes/</link>
     <description>Recent content on Kaushik Bhat</description>
-    <generator>Hugo -- 0.125.4</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 May 2024 10:30:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/hikes/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,15 @@
       <link>http://localhost:1313/hikes/hello-serendipity/</link>
       <pubDate>Thu, 23 May 2024 10:30:00 +0530</pubDate>
       <guid>http://localhost:1313/hikes/hello-serendipity/</guid>
-      <description>🧘🏼 find your tribe on the trail
-Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.
-⛰️ Episode 1 - Handi Gundi Hilltop Location: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway) Google Maps (just for the location, don’t bother reading reviews)
-Trail: Easy 3.5 kms, 2 hrs
-🚗 Start from your homes no later than 6am.</description>
+      <description>&lt;p&gt;🧘🏼 &lt;em&gt;find your tribe on the trail&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.&lt;/p&gt;
+&lt;h2 id=&#34;episode-1---handi-gundi-hilltop&#34;&gt;⛰️ Episode 1 - Handi Gundi Hilltop&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: 60-65kms from Bangalore. Near Ramanagara (Bangalore-Mysore Expressway)
+&lt;a href=&#34;https://maps.app.goo.gl/7NiHWDkgGP24HGMZ7&#34;&gt;Google Maps&lt;/a&gt; (just for the location, don’t bother reading reviews)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trail&lt;/strong&gt;: Easy 3.5 kms, 2 hrs&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;handi-gundi.jpeg&#34; alt=&#34;Handi Gundi&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;🚗 Start from your homes no later than 6am. The earlier we go, the lesser chances of ☀️&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
