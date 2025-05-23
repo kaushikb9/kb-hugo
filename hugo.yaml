@@ -56,13 +56,16 @@ languages:
       main:
         - name: About
           url: about
-          weight: 5
+          weight: 1
         - name: Blog
           url: blog
-          weight: 5
+          weight: 2
+        - name: Notes
+          url: notes
+          weight: 3
         - name: Ideas
           url: ideas
-          weight: 5
+          weight: 4
         - name: Search
           url: search/
-          weight: 10
+          weight: 5
