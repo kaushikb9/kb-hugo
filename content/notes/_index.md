@@ -14,8 +14,9 @@ But somewhere along the way, I started noticing something:  The real learning an
 - During monthly staff meetings  
 - In war rooms, where urgency sparked creativity  
 
-Eventually, I stopped looking outward for inspiration and started paying closer attention to what was unfolding around me. Noticing patterns. Asking better questions. Learning from the work itself. This space is where I capture those reflections. This section is a place where I publish my raw notes and thoughts and not really blog-worthy.
+Eventually, I stopped looking outward for inspiration and started paying closer attention to what was unfolding around me. Noticing patterns. Asking better questions. Learning from the work itself. This space is where I capture those reflections. 
 
+This section is a place where I publish my raw notes and thoughts and not really blog-worthy.
 
 ## ✨ What surprised me at work?
 
