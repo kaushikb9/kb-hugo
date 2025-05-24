@@ -32,9 +32,9 @@ And it didn’t stop there.
 
 Suddenly, devs weren’t just shipping faster. They were **dreaming faster**.
 
-Teams spun up their own **MCP servers** to power Cursor use cases.  
-Ideas for **auto-documentation via prompts** became hallway conversations.  
-Someone even built **LLM fine-tuning** on internal service patterns — just because Cursor made it feel within reach.
+- Teams spun up their own **MCP servers** to power Cursor use cases.  
+- Ideas for **auto-documentation via prompts** became hallway conversations.  
+- Someone even built **LLM fine-tuning** on internal service patterns — just because Cursor made it feel within reach.
 
 Cursor didn’t have all the bells and whistles, but it had something better: **momentum**. And that made all the difference.
 
