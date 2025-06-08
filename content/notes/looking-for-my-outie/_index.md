@@ -9,7 +9,7 @@ If you're a fan of **Severance**, you’ll get the title. Your innie clocks in a
 
 Sometimes I feel like my own version of that. I’ve spent so long optimising for the innie — work, productivity, performance — that I’m only now starting to wonder: **who is the outie?** What does he enjoy, beyond the job, beyond the career?
 
-*Disclaimer: mild introspection ahead. No answers, just ramblings.*
+*Disclaimer: mild introspection ahead. No fun, no learnings, just ramblings.*
 
 
 ### For most Indian millennials, work is the default
