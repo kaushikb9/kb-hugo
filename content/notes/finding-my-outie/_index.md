@@ -2,7 +2,6 @@
 title = "Finding My Outie"
 date = 2025-06-08
 description = "A check-in on energy, curiosity, and life beyond the job."
-draft = true
 +++
 
 If you're a fan of **Severance**, you’ll get the title. Your innie clocks in and does the job. Your outie lives the rest of your life, and the two never really know each other.
@@ -44,7 +43,7 @@ I plan to keep a low-stakes log for a couple of weeks. Nothing fancy, just quick
 - What conversations leave me feeling recharged  
 - What I reach for when I’m not overthinking
 
-I also want to make a running list of things that drain me — tasks, environments, even people. The stuff that leaves me dull or distracted. Over time, this list should show me what I need to protect, and what I can slowly let go of.
+I also want to make a running list of things that drain me - tasks, environments, even people. The stuff that leaves me dull or distracted. Over time, this list should show me what I need to protect, and what I can slowly let go of.
 
 
 ### 2. Follow my curiosity. Watch the rituals.
@@ -52,13 +51,13 @@ I also want to make a running list of things that drain me — tasks, environmen
 Instead of hunting for a purpose, I want to keep trying things that spark curiosity and protect the rituals I enjoy.
 
 Some of the things I’ve picked up:
-- **Coffee brewing** – The daily ritual of brewing beans and making a pour-over. I’m hoping there’s more here.  
-- **Learning Japanese** – Anime and TV got me hooked enough to enrol in a proper course. But I still deprioritise it when work gets busy. I want to make this a non-negotiable.
+- **Coffee brewing**: The daily ritual of brewing beans and making a pour-over. I’m hoping there’s more here.  
+- **Learning Japanese**: Anime and TV got me hooked enough to enrol in a proper course. But I still deprioritise it when work gets busy. I want to make this a non-negotiable.
 
 And then there are the things that are part of my core identity but seem to be losing their spark:
 - What do I actually enjoy about tech and startups? Maybe it’s the constraints and puzzle-solving.  
 - I say I love football, but I barely make time to watch a full match or play FIFA. Why is that?  
-- I enjoy the outdoors — trekking, cycling, or even a walk around the park. Why don’t I make more time for it?
+- I enjoy the outdoors - trekking, cycling, or even a walk around the park. Why don’t I make more time for it?
 
 
 ### 3. Try a solo staycation and watch what happens
@@ -68,7 +67,7 @@ Haven’t done this yet, but I want to. A quiet 24–48 hours alone. No obligati
 
 ## I’m starting today
 
-If you’re in the same boat — not stuck, not lost, just trying to see more clearly — maybe this helps. I’ll probably come back to this in a month and see if the blanks have started filling in.
+If you’re in the same boat - not stuck, not lost, just trying to see more clearly then maybe this helps. I’ll probably come back to this in a month and see if the blanks have started filling in.
 
-My innie is great — he genuinely enjoys solving problems and has the drive and rigour to strive for excellence at work. But my outie needs to have a great personality too.  
-*(Yes, I know — this is a very forced Severance callback. But I’ve committed to the bit, so here we are.)*
+My innie is great. He genuinely enjoys solving problems and has the drive and rigour to strive for excellence at work. But my outie needs to have a great personality too.  
+*(Yes, I know, this is a very forced Severance callback. But I’ve committed to the bit, so here we are.)*
