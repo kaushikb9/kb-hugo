@@ -6,7 +6,7 @@ description = "A check-in on energy, curiosity, and life beyond the job."
 
 If you're a fan of **Severance**, you’ll get the title. Your innie clocks in and does the job. Your outie lives the rest of your life, and the two never really know each other.
 
-Sometimes I feel like my own version of that. I’ve spent so long optimising for the innie - work, productivity, performance - that I’m only now starting to wonder: **who is the outie?** What does he enjoy, beyond the job, beyond the career?
+Sometimes I feel like my own version of that. I’ve spent so long optimising for the innie - work, productivity, performance. Only now starting to wonder: **who is the outie?** What does he enjoy, beyond the job, beyond the career?
 
 *Disclaimer: mild introspection ahead. No fun, no learnings - just some Sunday ramblings.*
 
