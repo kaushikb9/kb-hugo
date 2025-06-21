@@ -1,5 +1,5 @@
 +++
-title = "The era of agents - AI vs Humans"
+title = "Scaling AI, with humans"
 slug = "ai-vs-humans-quadrant"
 date = 2025-06-21T00:00:00+05:30
 description = "A quadrant model to think about where AI should lead, where humans still shine, and when the combo works best."
@@ -25,11 +25,10 @@ So I drew this quadrant to make sense of the landscape.
 
 On the X-axis, you’ve got how well AI can handle the problem. On the Y-axis, you’ve got how well humans still do. This isn’t just about customer support — it applies to all kinds of AI use cases: Cursor, Copilot, ChatGPT, you name it.
 
-### Quadrant 4: Pure Automation, Should’ve Been a Feature
+### Q3: 🧱 Crutch Zone  
+*Low AI, low human involvement*
 
-Let’s start at the bottom.
-
-This is where humans were in the loop *only* because the product didn’t support something directly. Think rule engines, deterministic workflows, status updates.
+These are the problems that shouldn’t really need AI or humans — they only exist because of product gaps. This is where humans were in the loop *only* because the product didn’t support something directly. Think rule engines, deterministic workflows, status updates.
 
 These problems don’t need AI. They need product fixes.
 
@@ -39,7 +38,8 @@ These problems don’t need AI. They need product fixes.
 
 AI sometimes fills this gap, but it's a crutch. It shouldn’t have to.
 
-### Quadrant 1: AI-first, Low-Stakes Tasks
+### Q4: 🤖 The LLM Sweet Spot  
+*High AI, minimal human involvement*
 
 These are classic LLM-friendly problems. There’s a clear set of data or logic. You can build RAG pipelines, plug into tools, and trust the answer most of the time.
 
@@ -62,9 +62,10 @@ Here are some more examples we’ve seen work well:
 
 The key is: the problem has known structure, AI doesn’t need much context, and mistakes are cheap to fix.
 
-### Quadrant 2: AI + Human is the Real Multiplier
+### Q1: 🧠 The Combo Zone  
+*High AI, high human involvement*
 
-This is the magic quadrant. AI does the grunt work, human makes the final call. With the right tools, a human can 10x their impact:
+This is the quadrant where AI and humans amplify each other. The combo doesn't just work — it compounds. AI does the grunt work, human makes the final call. With the right tools, a human can 10x their impact:
 
 - A support agent becomes capable of resolving deeper technical issues  
 - A dev ships faster by offloading boilerplate and tests  
@@ -74,7 +75,8 @@ These aren’t just "copilots" — they’re amplifiers. The combo wins.
 
 Especially internally, this is where the biggest org productivity jumps can come from. But even on the customer side, we’re seeing signs — tools that make humans better, not just cheaper.
 
-### Quadrant 3: Human Judgment Still Matters
+### Q2: 👀 The Judgment Zone  
+*High human judgment, low AI reliability*
 
 This quadrant is counterintuitive. You’d think everything eventually moves toward AI, right?
 
@@ -88,7 +90,7 @@ Even if the AI gives the right answer, it might escalate things further. The iss
 
 ### The hard truth
 
-Most problems feel like they should sit in Q1 or Q2 — but end up in Q3 due to missing context.  
+Most problems feel like they should sit in Q1 or Q4 — but end up in Q2 due to missing context.  
 Imagine a customer asking a straightforward question, but their past tickets haven’t been resolved. They’ve had to repeat themselves multiple times. The AI answers correctly — but it feels like a dead end.  
 If that context were available, the same problem could’ve easily been handled in one of the other quadrants.
 
@@ -104,4 +106,4 @@ This quadrant helped me — and my teams — decide where to push harder, where 
 
 Some problems need better prompts. Some need better context. Some just need a human who knows when to say, "I get it. Let's fix this."
 
-Whether you’re building for customers or for your own teams, maybe this framing helps you locate your problem — and more importantly, your leverage.
+Use it to decide what’s worth automating, what’s worth fixing, and what’s still worth doing the old school way.
