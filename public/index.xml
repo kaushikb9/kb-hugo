@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kaushik Bhat</title>
-    <link>http://localhost:54846/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54846/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The era of agents - AI vs Humans</title>
+      <link>http://localhost:1313/posts/ai-vs-humans-quadrant/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/ai-vs-humans-quadrant/</guid>
+      <description>A quadrant model to think about where AI should lead, where humans still shine, and when the combo works best.</description>
+    </item>
     <item>
       <title>Finding My Outie</title>
-      <link>http://localhost:54846/posts/finding-my-outie/</link>
+      <link>http://localhost:1313/posts/finding-my-outie/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54846/posts/finding-my-outie/</guid>
+      <guid>http://localhost:1313/posts/finding-my-outie/</guid>
       <description>A check-in on energy, curiosity, and life beyond the job.</description>
     </item>
     <item>
       <title>Situational Leadership</title>
-      <link>http://localhost:54846/posts/skill-will/</link>
+      <link>http://localhost:1313/posts/skill-will/</link>
       <pubDate>Sun, 09 Jun 2024 14:40:51 +0530</pubDate>
-      <guid>http://localhost:54846/posts/skill-will/</guid>
+      <guid>http://localhost:1313/posts/skill-will/</guid>
       <description>&lt;p&gt;I am skeptical of frameworks that prescribe a one-size-fits-all approach to executing a role. Most leadership literature focuses on how to be a good boss, but seldom addresses how to effectively help your team achieve their best. As engineering leaders responsible for a diverse team of super-smart engineers, we need to tailor our approach to each team member&amp;rsquo;s abilities and personalities.&lt;/p&gt;
 &lt;p&gt;I recently attended a leadership workshop on &lt;a href=&#34;https://situational.com/situational-leadership&#34;&gt;&amp;ldquo;Situational Leadership&amp;rdquo;&lt;/a&gt; which made good sense. The idea is to indentify what stage of performance and maturity one&amp;rsquo;s team-members fit into and accordingly play a different role to help them succeed. The official docs are all fancy so I try to simplify this per my understanding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Serendipity Hikes</title>
-      <link>http://localhost:54846/hikes/hello-serendipity/</link>
+      <link>http://localhost:1313/hikes/hello-serendipity/</link>
       <pubDate>Thu, 23 May 2024 10:30:00 +0530</pubDate>
-      <guid>http://localhost:54846/hikes/hello-serendipity/</guid>
+      <guid>http://localhost:1313/hikes/hello-serendipity/</guid>
       <description>&lt;p&gt;🧘🏼 &lt;em&gt;find your tribe on the trail&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Welcome to the inaugural edition of Serendipity Hikes. Grab some friends, lace up your hiking boots, and get ready for adventures you have been yearning for.&lt;/p&gt;
 &lt;h2 id=&#34;episode-1---handi-gundi-hilltop&#34;&gt;⛰️ Episode 1 - Handi Gundi Hilltop&lt;/h2&gt;
@@ -40,9 +47,9 @@
     </item>
     <item>
       <title>Debugging Distractions</title>
-      <link>http://localhost:54846/posts/time/</link>
+      <link>http://localhost:1313/posts/time/</link>
       <pubDate>Sun, 05 May 2024 12:10:09 +0530</pubDate>
-      <guid>http://localhost:54846/posts/time/</guid>
+      <guid>http://localhost:1313/posts/time/</guid>
       <description>&lt;p&gt;We all struggle with managing time. We want to do 100 different things, but we have only so many hours every day. At work, most of our hours are governed by stakeholders and teammates. This is typical for most of us working in a product-engineering org.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;adhoc-day.png&#34; alt=&#34;everyday&#34;  /&gt;
 &lt;/p&gt;
@@ -61,26 +68,26 @@
     </item>
     <item>
       <title>Hello</title>
-      <link>http://localhost:54846/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Wed, 01 May 2024 12:08:51 +0530</pubDate>
-      <guid>http://localhost:54846/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;p&gt;Welcome to my corner of the internet! After experimenting with platforms like Medium and Substack, I&amp;rsquo;ve decided to move my blog to a new platform yet again. I&amp;rsquo;ve enjoyed engaging on Twitter for nearly a decade, but the recent surge in toxicity and the dominance of influence-driven content have spurred me to seek a space where I can freely express my thoughts, free of algorithms dictating engagement.&lt;/p&gt;
 &lt;p&gt;So, I finally purchased my domain and it just felt right that I need to host my own content. My goal is to use this platform as a journal and make writing a habit, aiming for at least two posts per month and striving for a total of 20 posts by the end of 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:54846/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54846/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Welcome to my own little space on the internet. I take deep interest in all things startups, engineering, football and outdoors.&lt;/p&gt;
 &lt;p&gt;I have been part of few interesting companies where I led teams working on a wide range of engineering problems - ranging from building products  for PMF to serving millions of requests everyday. I am currently an Associate Director of Engineering at one of India&amp;rsquo;s largest fintech companies&lt;/p&gt;
 &lt;p&gt;You can reach out to me on &lt;a href=&#34;https://twitter.com/kaushikb9&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ideas</title>
-      <link>http://localhost:54846/ideas/</link>
+      <link>http://localhost:1313/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54846/ideas/</guid>
+      <guid>http://localhost:1313/ideas/</guid>
       <description>&lt;p&gt;This is a public list of ideas I want to work on&lt;/p&gt;
 &lt;h2 id=&#34;meta-ideas-for-this-site&#34;&gt;Meta ideas for this site&lt;/h2&gt;
 &lt;ul&gt;
