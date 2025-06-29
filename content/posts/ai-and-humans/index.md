@@ -1,7 +1,7 @@
 +++
 title = "Scaling AI, with humans"
 date = 2025-06-29T00:00:00+05:30
-description = "A quadrant model to think about where AI should lead, where humans still shine, and when the combo works best."
+description = "AI is changing how we work. A mental model that helped me focus on what to focus on, what to let go, and what I need to grow into."
 draft = false
 +++
 
@@ -77,8 +77,10 @@ Most problems feel like they should sit in the 1st, 3rd or the 4th quadrant - bu
 
 While I was writing this post, a talk [by Andrej Karpathy](https://youtu.be/LCEmiRjPEtQ?si=e_TVa6I6WZVOlrru) was doing the rounds. It reinforced a few things we have been seeing on the ground, especially around the role of AI agents and the importance of context. He talks about AI agents as the next layer of abstraction and how chaining tools and memory into them is what makes them powerful. He also makes a great point about designing for LLMs, not just using them as a drop-in replacement for humans. In other words: don’t just give the model a messy interface or complex tool and expect magic - build clean, clear scaffolds around the model’s strengths. That resonates with our experience too. Problems in the **LLM Sweet Spot** work well because we’ve shaped the inputs and constraints to help the model succeed. He also talks about human-in-the-loop where we need to design systems where users can verify, edit, and guide the AI.
 
-### So what's the verdict?
+### Evolving with AI
 
-There’s no doubt we’re heading toward an AI-first future but I think we’ve still got a year or two where humans play a critical role - helping make AI agents smarter and faster. It’s better to accept that and start adapting now. I keep asking engineers on my team: "Are you writing code, or are you writing code that can write code?" Our skillsets need to evolve - we all shouldn't just be building using LLMs, but building for LLMs.
+This model helped me pause and rethink how I should be strategising to leverage AI better. There is no doubt we are heading toward an AI-first future, but I think we still have a year or two where humans play a critical role — helping make AI agents smarter, faster, and more useful. It’s better to accept that and start upskilling ourselves for an exciting future.
 
-So in conclusion - some problems need better prompts. some need better context and in some case we just need a human who knows when to say, "I get it. Let's fix this."
+I keep asking engineers on my team: "Are you writing code, or are you writing code that can write code?" That shift means rethinking how we structure inputs, build feedback interfaces, store memory, and even write docs.
+
+As Andrej said in his talk: “You don’t want to use LLMs, you want to build for them.”
