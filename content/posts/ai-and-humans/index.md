@@ -14,7 +14,7 @@ When automating Customer support, the tolerance for error is low. We can’t aff
 
 On the other side, when building for internal users, especially engineering, we have more room to experiment and can take some risks. Developers are usually more forgiving if something fails gracefully. We want to optimise for speed and cost - not just build some gimmicky features.
 
-Now, whether it’s external or internal, I started thinking: maybe the issue isn’t just about whether AI is “good enough”. Maybe it’s about understanding where AI should lead, where humans still shine, and when the combo works best.
+Now, whether it’s external or internal, I started thinking: maybe the issue isn’t just about whether AI is “good enough”. Maybe it’s about understanding where AI should lead, where humans still shine, and when the combo works best. 
 
 So I drew this quadrant to make sense of the landscape.
 
@@ -79,7 +79,7 @@ While I was writing this post, a talk [by Andrej Karpathy](https://youtu.be/LCEm
 
 ### Evolving with AI
 
-This model helped me pause and rethink how I should be strategising to leverage AI better. There is no doubt we are heading toward an AI-first future, but I think we still have a year or two where humans play a critical role — helping make AI agents smarter, faster, and more useful. It’s better to accept that and start upskilling ourselves for an exciting future.
+We haven’t cracked all of this. Some parts are still rough. But thinking in this way has helped us ask better questions and build towards stronger answers. This model helped me pause and rethink how I should be strategising to leverage AI better. There is no doubt we are heading toward an AI-first future, but I think we still have a year or two where humans play a critical role — helping make AI agents smarter, faster, and more useful. It’s better to accept that and start upskilling ourselves for an exciting future.
 
 I keep asking engineers on my team: "Are you writing code, or are you writing code that can write code?" That shift means rethinking how we structure inputs, build feedback interfaces, store memory, and even write docs.
 
