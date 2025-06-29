@@ -5,8 +5,6 @@ description = "A quadrant model to think about where AI should lead, where human
 draft = false
 +++
 
-## Scaling AI, with humans
-
 In my current role, I am responsible for leveraging AI on two major fronts:
 
 - automate customer support issues with high quality  
