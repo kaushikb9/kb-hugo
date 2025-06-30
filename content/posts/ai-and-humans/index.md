@@ -5,18 +5,17 @@ description = "AI is changing how we work. A mental model that helped me focus o
 draft = false
 +++
 
-In my current role, I am responsible for leveraging AI on two major fronts:
-
-- automate customer support issues with high quality  
+In my current role, I lead 2 charters:
+- automation and tooling for customer success
 - improve engineering productivity across SDLC
+
+Over the last few months, we have been carefully exploring how AI can play a meaningful role across both.
 
 When automating Customer support, the tolerance for error is low. We can’t afford to mess things up. Every touchpoint matters - understanding their language, reducing back and forth, empathising with their frustrations. The customer usually reaches out after they’ve tried everything else. It’s not enough to be correct - the customer needs to feel that their concern is actually being addressed.
 
 On the other side, when building for internal users, especially engineering, we have more room to experiment and can take some risks. Developers are usually more forgiving if something fails gracefully. We want to optimise for speed and cost - not just build some gimmicky features.
 
-Now, whether it’s external or internal, I started thinking: maybe the issue isn’t just about whether AI is “good enough”. Maybe it’s about understanding where AI should lead, where humans still shine, and when the combo works best. 
-
-So I drew this quadrant to make sense of the landscape.
+Some experiments worked, some didn’t. Along the way, I started building a mental model for where AI can really shine, where humans still matter, and where the combo works best. So I drew this quadrant to make sense of the landscape.
 
 ![AI vs Humans Quadrant](ai-and-humans.png)
 
