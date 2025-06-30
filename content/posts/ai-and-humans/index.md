@@ -5,11 +5,7 @@ description = "AI is changing how we work. A mental model that helped me focus o
 draft = false
 +++
 
-In my current role, I lead 2 charters:
-- automation and tooling for customer success
-- improve engineering productivity across SDLC
-
-Over the last few months, we have been carefully exploring how AI can play a meaningful role across both.
+AI is everywhere — but figuring out where it actually helps (and where it doesn’t) is still very much a work in progress. In my current role, I lead 2 charters - tooling for customer success and improve engineering productivity. Over the last few months, we have been carefully exploring how AI can play a meaningful role across both.
 
 When automating Customer support, the tolerance for error is low. We can’t afford to mess things up. Every touchpoint matters - understanding their language, reducing back and forth, empathising with their frustrations. The customer usually reaches out after they’ve tried everything else. It’s not enough to be correct - the customer needs to feel that their concern is actually being addressed.
 
