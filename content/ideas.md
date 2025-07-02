@@ -19,8 +19,9 @@ This is a public list of ideas I want to work on
 - Add email sibscription
 
 ## Blog about
-- Walk the talk, if not write your thoughts
+- Walk the talk, if not then write your thoughts
 - Handling burnout, finding motivation and pushing through chaos
+- Autonomy vs Alignment - the art of delegation
 - Role of a Tech Lead and how it is different from a Senior Engineer
 - Hiring an Engineering Manager. My expectations
 - Solving Tech Debt is so much more. Think about Product Debt as well
