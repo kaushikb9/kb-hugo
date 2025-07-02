@@ -19,7 +19,9 @@ This is a public list of ideas I want to work on
 - Add email sibscription
 
 ## Blog about
-- Role of a Tech Lead and how it is different from a Mid-Senior Engineer
+- Walk the talk, if not write your thoughts
+- Handling burnout, finding motivation and pushing through chaos
+- Role of a Tech Lead and how it is different from a Senior Engineer
 - Hiring an Engineering Manager. My expectations
 - Solving Tech Debt is so much more. Think about Product Debt as well
 - Challenges in moving up the ladder. Dev to Manager to Director
