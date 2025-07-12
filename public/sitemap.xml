@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/career/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/influence/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/influence/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-21T00:00:00+05:30</lastmod>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visibility/</loc>
+    <lastmod>2025-07-12T17:45:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-21T00:00:00+05:30</lastmod>
+    <lastmod>2025-06-29T00:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ai-vs-humans-quadrant/</loc>
-    <lastmod>2025-06-21T00:00:00+05:30</lastmod>
+    <loc>http://localhost:1313/posts/ai-and-humans/</loc>
+    <lastmod>2025-06-29T00:00:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/finding-my-outie/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
@@ -30,9 +48,6 @@
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/shipping-fast/</loc>
-    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
