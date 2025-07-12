@@ -9,19 +9,19 @@ Last week, I was chatting with a small group of folks, early to mid-level engine
 
 If there is one thing I’ve learned, it’s this: hard work is rarely the problem. Most people are already putting in the hours. But visibility, leverage and momentum? That’s where things start to click.
 
-Start with your environment. If Mondays feel heavy, maybe that’s the first thing to fix. Work with smart, high-energy people - people who raise your bar. The right environment will demand you to grow.
-
-The other big unlock is influence. It’s not about being the loudest in the room. It’s about making people want to listen when you speak. It’s about building enough credibility and trust that others come to you when the stakes are high. Btw, IMO influence cant be built overnight, it compounds step by step:
-- Personal Excellence – Own your craft. Be known for something.
-- Team Impact – Enable the team to be more efficient, and ship faster.
-- Org Influence – Be bold and decisive. Help shape the culture.
+The big unlock is influence. It’s not about being the loudest in the room. It’s about making people want to listen when you speak. It’s about building enough credibility and trust that others come to you when the stakes are high. Btw, IMO influence cant be built overnight, it compounds step by step:
+- Excellence – Own your craft. Be known for something.
+- Team Catalyst – Elevate how the team thinks, works, and delivers.
+- Influence – Be bold and decisive. Help shape the culture.
 
 It’s also important to understand that it’s not your job to do everything. It’s your job to make sure things get done. Know when to push, and when to ask for help. You don’t get extra points for burning out alone. Ownership means you made it happen, regardless of who else was involved.
 
 If you want to get to the next level, make sure you are intentional about it. Don’t assume it’ll happen just because you’ve been around long enough. Ask your manager what problems they want solved. Ask what “great” looks like. And yes, always overcommunicate. There were times I worked on some of the most critical projects and my manager had no idea what I was doing. I would send a short Monday morning note on how things are progressing and where I need help. Didn’t matter if they read it or not. Once in a while, something would catch their eye and they would share their feedback.
 
-Finally, be curious. Keep a quiet eye on what’s happening around you - customers complaining, cross-team friction, tech debt piling up. You don’t need to solve everything - but when something drops, be the one who picks it up and runs with it. Don’t box yourself in with “this isn’t my problem” or “someone else will handle it.” Some of the most impactful people I have worked with are the ones who don’t draw boundaries around what they’re allowed to care about. At the core of all this is proactivity, a sharp sense of urgency to move the needle, and the ability to influence the people around you. 
+Finally, be curious. Keep a quiet eye on what’s happening around you - customers complaining, cross-team friction, tech debt piling up. You don’t need to solve everything - but when something comes your way, be the one who is ready to pick it up and run with it. Some of the most impactful people I have worked with are the ones who don’t draw boundaries around what they’re allowed to care about. At the core of all this is proactivity, a sharp sense of urgency to move the needle, and the ability to influence the people around you. 
 
 It’s how you show up, create momentum, and help others move faster.
 
 > Be the person who makes the team better just by being there. The one who’s trusted with the messy problems. The one they don’t want to lose.
+
+footnote: Before any of this, start with your environment. If Mondays feel heavy and sluggist, maybe that’s the first thing to fix. Work with smart, high-energy people - people who raise your bar. The right environment will demand you to grow.
