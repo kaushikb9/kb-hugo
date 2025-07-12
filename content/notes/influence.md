@@ -10,9 +10,9 @@ Last week, I was chatting with a small group of folks, early to mid-level engine
 If there is one thing I’ve learned, it’s this: hard work is rarely the problem. Most people are already putting in the hours. But visibility, leverage and momentum? That’s where things start to click.
 
 The big unlock is influence. It’s not about being the loudest in the room. It’s about making people want to listen when you speak. It’s about building enough credibility and trust that others come to you when the stakes are high. Btw, IMO influence cant be built overnight, it compounds step by step:
-- Excellence – Own your craft. Be known for something.
-- Team Catalyst – Elevate how the team thinks, works, and delivers.
-- Influence – Be bold and decisive. Help shape the culture.
+- Excellence: Own your craft. Be known for something.
+- Team Catalyst: Elevate how the team thinks, works, and delivers.
+- Guiding force: Shape the culture by how you operate, not just what you say.
 
 It’s also important to understand that it’s not your job to do everything. It’s your job to make sure things get done. Know when to push, and when to ask for help. You don’t get extra points for burning out alone. Ownership means you made it happen, regardless of who else was involved.
 
@@ -24,4 +24,4 @@ It’s how you show up, create momentum, and help others move faster.
 
 > Be the person who makes the team better just by being there. The one who’s trusted with the messy problems. The one they don’t want to lose.
 
-footnote: Before any of this, start with your environment. If Mondays feel heavy and sluggist, maybe that’s the first thing to fix. Work with smart, high-energy people - people who raise your bar. The right environment will demand you to grow.
+PS: Before any of this, start with your environment. If Mondays feel heavy and sluggish, maybe that’s the first thing to fix. Work with smart, high-energy people - people who raise your bar. The right environment will demand you to grow.
