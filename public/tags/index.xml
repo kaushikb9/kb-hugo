@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kaushik Bhat</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://kaushikbhat.com/tags/</link>
     <description>Recent content in Tags on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Jul 2025 17:45:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaushikbhat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
-      <link>http://localhost:1313/tags/career/</link>
+      <link>https://kaushikbhat.com/tags/career/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/career/</guid>
+      <guid>https://kaushikbhat.com/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Growth</title>
-      <link>http://localhost:1313/tags/growth/</link>
+      <link>https://kaushikbhat.com/tags/growth/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/growth/</guid>
+      <guid>https://kaushikbhat.com/tags/growth/</guid>
       <description></description>
     </item>
     <item>
       <title>Influence</title>
-      <link>http://localhost:1313/tags/influence/</link>
+      <link>https://kaushikbhat.com/tags/influence/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/influence/</guid>
+      <guid>https://kaushikbhat.com/tags/influence/</guid>
       <description></description>
     </item>
     <item>
       <title>Visibility</title>
-      <link>http://localhost:1313/tags/visibility/</link>
+      <link>https://kaushikbhat.com/tags/visibility/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/visibility/</guid>
+      <guid>https://kaushikbhat.com/tags/visibility/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Tools</title>
-      <link>http://localhost:1313/tags/ai-tools/</link>
+      <link>https://kaushikbhat.com/tags/ai-tools/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-tools/</guid>
+      <guid>https://kaushikbhat.com/tags/ai-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Copilot</title>
-      <link>http://localhost:1313/tags/copilot/</link>
+      <link>https://kaushikbhat.com/tags/copilot/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/copilot/</guid>
+      <guid>https://kaushikbhat.com/tags/copilot/</guid>
       <description></description>
     </item>
     <item>
       <title>Cursor</title>
-      <link>http://localhost:1313/tags/cursor/</link>
+      <link>https://kaushikbhat.com/tags/cursor/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cursor/</guid>
+      <guid>https://kaushikbhat.com/tags/cursor/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer Productivity</title>
-      <link>http://localhost:1313/tags/developer-productivity/</link>
+      <link>https://kaushikbhat.com/tags/developer-productivity/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer-productivity/</guid>
+      <guid>https://kaushikbhat.com/tags/developer-productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Shipping Fast</title>
-      <link>http://localhost:1313/tags/shipping-fast/</link>
+      <link>https://kaushikbhat.com/tags/shipping-fast/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shipping-fast/</guid>
+      <guid>https://kaushikbhat.com/tags/shipping-fast/</guid>
       <description></description>
     </item>
   </channel>

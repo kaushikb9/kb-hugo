@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Visibility on Kaushik Bhat</title>
-    <link>http://localhost:1313/tags/visibility/</link>
+    <link>https://kaushikbhat.com/tags/visibility/</link>
     <description>Recent content in Visibility on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Jul 2025 17:45:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/visibility/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaushikbhat.com/tags/visibility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Influence, Momentum and Growth</title>
-      <link>http://localhost:1313/notes/influence/</link>
+      <link>https://kaushikbhat.com/notes/influence/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/notes/influence/</guid>
+      <guid>https://kaushikbhat.com/notes/influence/</guid>
       <description>&lt;p&gt;Last week, I was chatting with a small group of folks, early to mid-level engineers trying to figure out how to grow without getting stuck in the “just keep grinding” loop. The one where you work hard, stay low-key, and hope someone notices. So I wrote down a bunch of thoughts based on what’s helped some of the best in my team get noticed and grow faster&lt;/p&gt;
 &lt;p&gt;If there is one thing I’ve learned, it’s this: hard work is rarely the problem. Most people are already putting in the hours. But visibility, leverage and momentum? That’s where things start to click.&lt;/p&gt;</description>
     </item>

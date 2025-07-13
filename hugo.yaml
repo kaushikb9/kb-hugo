@@ -36,6 +36,8 @@ params:
       url: "https://www.linkedin.com/in/kaushikbhat/"
     - name: "github"
       url: "https://github.com/kaushikb9"
+    - name: "rss"
+      url: "/index.xml"
 
 outputs:
   home:
