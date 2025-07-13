@@ -8,15 +8,16 @@ ShowReadingTime: false
 This is a public list of ideas I want to work on
 
 ## Meta ideas for this site
-- Add a `notes` section. The idea is from [digital gardens](https://salman.io/notes/digital-gardens/)
+- ✅ Add a `notes` section. The idea is from [digital gardens](https://salman.io/notes/digital-gardens/)
+- ✅ Enable RSS feeds
+- Add email subscription (Cloudflare KV + Resend?)
 - Enable adding comments. Options
     - https://cusdis.com/
     - https://github.com/mcnaveen/SupaComments
     - https://isso-comments.de/
     - https://staticman.net/
     - https://cloudcannon.com/jamstack-ecosystem/commenting/
-- Enable RSS feeds
-- Add email sibscription
+
 
 ## Blog about
 - Walk the talk, if not then write your thoughts
