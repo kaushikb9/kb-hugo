@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Traces, of me on Kaushik Bhat</title>
+    <link>http://localhost:1313/traces/</link>
+    <description>Recent content in Traces, of me on Kaushik Bhat</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Oct 2025 14:20:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/traces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents for daily work</title>
+      <link>http://localhost:1313/traces/2025-10-21-personal-agents/</link>
+      <pubDate>Tue, 21 Oct 2025 14:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2025-10-21-personal-agents/</guid>
+      <description>&lt;p&gt;Thinking about building agents for doing my day to day work&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spoke about my work at a work event</title>
+      <link>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</link>
+      <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</guid>
+      <description>&lt;p&gt;I did a small talk about RAY in a work event. Audience was senior tech folks who were exploring moving to Razorpay. In all my previous talking events, I had to practice a lot and I would not be able to engage the audience quite well. This time, I was talking about something I was building day-in, day-out and I could paoint a great picture of all things that worked and that didn&amp;rsquo;t. I could anticipate all the questions that the audience had in mind and would could intrigue them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Indira Nagar vs India</title>
+      <link>http://localhost:1313/traces/2024-03-31-indira-nagar-vs-india/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2024-03-31-indira-nagar-vs-india/</guid>
+      <description>&lt;p&gt;Yesterday was Ugadi / Gudi Padwa (and many other spring festivals across India). I was enjoying lunch with a few friends and somewhere between a rant about the state of Bollywood and our different cultures, the conversation turned into a debate about &lt;strong&gt;what India should do vs what India really wants&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Meanwhile, a quiet escalation was unfolding at work. One of our customers (no names here) saw a massive traffic spike on their app. Escalations started coming in. Turns out, the app helps people create image creatives for WhatsApp — the kind you see in family groups wishing “Good Morning” and “Happy Diwali”.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

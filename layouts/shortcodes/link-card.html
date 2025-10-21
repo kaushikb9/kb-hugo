@@ -1,0 +1,63 @@
+{{- $url := .Get "url" -}}
+{{- $title := .Get "title" | default "Link" -}}
+{{- $desc := .Get "desc" | default "" -}}
+{{- $icon := .Get "icon" | default "🔗" -}}
+
+<div class="link-card">
+  <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">
+    <span class="link-icon">{{ $icon }}</span>
+    <div class="link-content">
+      <div class="link-title">{{ $title }}</div>
+      {{- if $desc -}}
+      <div class="link-desc">{{ $desc }}</div>
+      {{- end -}}
+    </div>
+  </a>
+</div>
+
+<style>
+.link-card {
+  display: inline-block;
+  margin: 8px 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+  transition: transform 0.1s;
+}
+
+.link-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.link-card a {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  text-decoration: none;
+  color: var(--primary);
+  gap: 12px;
+}
+
+.link-icon {
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.link-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.link-title {
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.link-desc {
+  font-size: 13px;
+  color: var(--secondary);
+  line-height: 1.4;
+}
+</style>
+

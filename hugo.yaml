@@ -16,6 +16,7 @@ minify:
 
 
 params:
+  mainSections: ["posts", "traces"]
   homeInfoParams:
     Title: Hi there 👋🏼
     Content: >
@@ -62,8 +63,8 @@ languages:
         - name: Blog
           url: blog
           weight: 2
-        - name: Notes
-          url: notes
+        - name: Traces
+          url: traces
           weight: 3
         - name: Ideas
           url: ideas

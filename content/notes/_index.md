@@ -3,6 +3,7 @@ title: "📝 kb.txt"
 date: 2025-03-31
 type: notes
 summary: A personal space where I document reflections from the trenches — because the real learning isn’t in threads or conference halls, but in the stories unfolding everyday.
+public: false
 ---
 
 This section is a place where I publish my raw notes and thoughts from day-to-day interactions and experiences. These are not long-form essays which go into the main blog. Just byte-sized notes - quick to write, rough around the edges, and published without overthinking. This is primarily inspired by the concept of [Evergreen Notes](https://notes.andymatuschak.org/About_these_notes)

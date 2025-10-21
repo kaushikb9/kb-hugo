@@ -6,8 +6,15 @@
     <description>Recent content on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Jul 2025 17:45:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 14:20:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents for daily work</title>
+      <link>http://localhost:1313/traces/2025-10-21-personal-agents/</link>
+      <pubDate>Tue, 21 Oct 2025 14:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2025-10-21-personal-agents/</guid>
+      <description>&lt;p&gt;Thinking about building agents for doing my day to day work&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Influence, Momentum and Growth</title>
       <link>http://localhost:1313/posts/influence/</link>
@@ -29,6 +36,13 @@
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/finding-my-outie/</guid>
       <description>A check-in on energy, curiosity, and life beyond the job.</description>
+    </item>
+    <item>
+      <title>Spoke about my work at a work event</title>
+      <link>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</link>
+      <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</guid>
+      <description>&lt;p&gt;I did a small talk about RAY in a work event. Audience was senior tech folks who were exploring moving to Razorpay. In all my previous talking events, I had to practice a lot and I would not be able to engage the audience quite well. This time, I was talking about something I was building day-in, day-out and I could paoint a great picture of all things that worked and that didn&amp;rsquo;t. I could anticipate all the questions that the audience had in mind and would could intrigue them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Situational Leadership</title>
@@ -83,6 +97,14 @@
 &lt;p&gt;So, I finally purchased my domain and it just felt right that I need to host my own content. My goal is to use this platform as a journal and make writing a habit, aiming for at least two posts per month and striving for a total of 20 posts by the end of 2024.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Indira Nagar vs India</title>
+      <link>http://localhost:1313/traces/2024-03-31-indira-nagar-vs-india/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/traces/2024-03-31-indira-nagar-vs-india/</guid>
+      <description>&lt;p&gt;Yesterday was Ugadi / Gudi Padwa (and many other spring festivals across India). I was enjoying lunch with a few friends and somewhere between a rant about the state of Bollywood and our different cultures, the conversation turned into a debate about &lt;strong&gt;what India should do vs what India really wants&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Meanwhile, a quiet escalation was unfolding at work. One of our customers (no names here) saw a massive traffic spike on their app. Escalations started coming in. Turns out, the app helps people create image creatives for WhatsApp — the kind you see in family groups wishing “Good Morning” and “Happy Diwali”.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,17 +134,27 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;blog-about&#34;&gt;Blog about&lt;/h2&gt;
+&lt;h2 id=&#34;project-ideas-for-documenting-life&#34;&gt;Project Ideas for documenting life&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://til.hashrocket.com/&#34;&gt;Personal TIL Board&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://achievementsof-life.vercel.app/plxity&#34;&gt;Achievements of Life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;engineering-blog-ideas&#34;&gt;Engineering Blog Ideas&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Walk the talk, if not then write your thoughts&lt;/li&gt;
 &lt;li&gt;Handling burnout, finding motivation and pushing through chaos&lt;/li&gt;
 &lt;li&gt;Autonomy vs Alignment - the art of delegation&lt;/li&gt;
-&lt;li&gt;Role of a Tech Lead and how it is different from a Senior Engineer&lt;/li&gt;
-&lt;li&gt;Hiring an Engineering Manager. My expectations&lt;/li&gt;
-&lt;li&gt;Solving Tech Debt is so much more. Think about Product Debt as well&lt;/li&gt;
-&lt;li&gt;Challenges in moving up the ladder. Dev to Manager to Director&lt;/li&gt;
-&lt;li&gt;Learnings for a New vs Senior Manager (art of conversation vs budgets)&lt;/li&gt;
-&lt;li&gt;Driving a good RCA culture. Experiences of owning cross-team RCAs&lt;/li&gt;
+&lt;li&gt;Challenges in moving up the ladder. Dev to Sr IC / Manager to Arch/Director&lt;/li&gt;
+&lt;li&gt;Excellence / Spike What does it really mean to be &amp;ldquo;Senior&amp;rdquo; in any role?&lt;/li&gt;
+&lt;li&gt;Building a world class engineering team (craft, hiring)&lt;/li&gt;
+&lt;li&gt;Excellence in AI vs traditional engineering projects&lt;/li&gt;
+&lt;li&gt;Conversations with Devs - then (motivate) vs now (challenge)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;life-experiences-and-ramblings&#34;&gt;Life experiences and ramblings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Identity (ABCD but for BLR wrt nativism)&lt;/li&gt;
+&lt;li&gt;Did I find my outie? Results from the experiment&lt;/li&gt;
+&lt;li&gt;People and Events that shaped who I am&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

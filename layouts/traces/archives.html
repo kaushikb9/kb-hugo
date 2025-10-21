@@ -1,0 +1,168 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>
+    {{ .Title }}
+    {{- if (.Param "ShowRssButtonInSectionTermList") }}
+    {{- $rss := (.OutputFormats.Get "rss") }}
+    {{- if (eq .Kind `page`) }}
+    {{- $rss = (.Parent.OutputFormats.Get "rss") }}
+    {{- end }}
+    {{- with $rss }}
+    <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" height="23">
+        <path d="M4 11a9 9 0 0 1 9 9" />
+        <path d="M4 4a16 16 0 0 1 16 16" />
+        <circle cx="5" cy="19" r="1" />
+      </svg>
+    </a>
+    {{- end }}
+    {{- end }}
+  </h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+{{- $pages := where site.RegularPages "Type" "traces" }}
+{{- $pages = where $pages "Params.public" "==" true }}
+
+<div class="traces-filters">
+  <div class="filter-tags">
+    <button class="filter-tag active" data-trace-kind="all">All</button>
+    <button class="filter-tag" data-trace-kind="idea">✨ Ideas</button>
+    <button class="filter-tag" data-trace-kind="til">🧠 TIL</button>
+    <button class="filter-tag" data-trace-kind="win">🎯 Wins</button>
+  </div>
+</div>
+
+{{- range $pages.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+  {{- $year := replace .Key "0001" "" }}
+  <h2 class="archive-year-header" id="{{ $year }}">
+    <a class="archive-header-link" href="#{{ $year }}">
+      {{- $year -}}
+    </a>
+    <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
+  </h2>
+  {{- range .Pages.GroupByDate "January" }}
+  <div class="archive-month">
+    <h3 class="archive-month-header" id="{{ $year }}-{{ .Key }}">
+      <a class="archive-header-link" href="#{{ $year }}-{{ .Key }}">
+        {{- .Key -}}
+      </a>
+      <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
+    </h3>
+    <div class="archive-posts">
+      {{- range .Pages }}
+      {{- if eq .Kind "page" }}
+      <div class="archive-entry" data-trace-kind="{{ .Params.trace_kind }}">
+        <h3 class="archive-entry-title entry-hint-parent">
+          {{- .Title | markdownify }}
+          {{- if .Draft }}
+          <span class="entry-hint" title="Draft">
+            <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">
+              <path
+                d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+            </svg>
+          </span>
+          {{- end }}
+        </h3>
+        <div class="archive-meta">
+          {{- partial "traces_meta.html" . -}}
+        </div>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- end }}
+{{- end }}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const filterTags = document.querySelectorAll('.filter-tag');
+  const archiveEntries = document.querySelectorAll('.archive-entry');
+  const archiveYears = document.querySelectorAll('.archive-year');
+  const archiveMonths = document.querySelectorAll('.archive-month');
+
+  function updateCounts() {
+    // Update year counts
+    archiveYears.forEach(year => {
+      const visibleEntries = year.querySelectorAll('.archive-entry:not(.hidden)');
+      const countElement = year.querySelector('.archive-count');
+      if (countElement) {
+        countElement.textContent = ` ${visibleEntries.length}`;
+      }
+      
+      // Hide/show year if no visible entries
+      if (visibleEntries.length === 0) {
+        year.classList.add('hidden');
+      } else {
+        year.classList.remove('hidden');
+      }
+    });
+
+    // Update month counts
+    archiveMonths.forEach(month => {
+      const visibleEntries = month.querySelectorAll('.archive-entry:not(.hidden)');
+      const countElement = month.querySelector('.archive-count');
+      if (countElement) {
+        countElement.textContent = ` ${visibleEntries.length}`;
+      }
+      
+      // Hide/show month if no visible entries
+      if (visibleEntries.length === 0) {
+        month.classList.add('hidden');
+      } else {
+        month.classList.remove('hidden');
+      }
+    });
+  }
+
+  function filterByTraceKind(selectedTraceKind) {
+    archiveEntries.forEach(entry => {
+      const entryTraceKind = entry.getAttribute('data-trace-kind');
+      
+      if (selectedTraceKind === 'all' || entryTraceKind === selectedTraceKind) {
+        entry.classList.remove('hidden');
+        entry.style.display = '';
+      } else {
+        entry.classList.add('hidden');
+        entry.style.display = 'none';
+      }
+    });
+    
+    updateCounts();
+  }
+
+  filterTags.forEach(tag => {
+    tag.addEventListener('click', function() {
+      // Update active state
+      filterTags.forEach(t => t.classList.remove('active'));
+      this.classList.add('active');
+      
+      // Filter entries
+      const selectedTraceKind = this.getAttribute('data-trace-kind');
+      filterByTraceKind(selectedTraceKind);
+    });
+  });
+});
+</script>
+
+{{- end }}{{/* end main */}}

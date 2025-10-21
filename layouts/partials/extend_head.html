@@ -1,0 +1,9 @@
+{{- /* Custom CSS for traces section */}}
+{{- if eq .Section "traces" }}
+{{- $tracesCSS := resources.Get "css/traces.css" }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $tracesCSS = $tracesCSS | fingerprint }}
+{{- end }}
+<link crossorigin="anonymous" href="{{ $tracesCSS.RelPermalink }}" rel="stylesheet">
+{{- end }}
+
