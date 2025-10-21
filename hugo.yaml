@@ -63,11 +63,11 @@ languages:
         - name: Blog
           url: blog
           weight: 2
-        - name: Traces
-          url: traces
-          weight: 3
         - name: Ideas
           url: ideas
+          weight: 3
+        - name: Traces
+          url: traces
           weight: 4
         - name: Search
           url: search/
