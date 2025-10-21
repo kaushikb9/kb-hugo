@@ -1,6 +1,6 @@
 ---
 title: "Agents for daily work"
-date: 2025-10-21T14:20:00Z
+date: 2025-10-20T14:20:00Z
 type: "traces"
 trace_kind: "idea"
 tags: ["ai", "productivity", "agents"]
