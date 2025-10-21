@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kaushik Bhat</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:52076/tags/</link>
     <description>Recent content in Tags on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 14:20:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Oct 2025 14:20:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52076/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agents</title>
-      <link>http://localhost:1313/tags/agents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/agents/</guid>
+      <link>http://localhost:52076/tags/agents/</link>
+      <pubDate>Mon, 20 Oct 2025 14:20:00 +0000</pubDate>
+      <guid>http://localhost:52076/tags/agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <link>http://localhost:52076/tags/ai/</link>
+      <pubDate>Mon, 20 Oct 2025 14:20:00 +0000</pubDate>
+      <guid>http://localhost:52076/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <link>http://localhost:52076/tags/productivity/</link>
+      <pubDate>Mon, 20 Oct 2025 14:20:00 +0000</pubDate>
+      <guid>http://localhost:52076/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Career</title>
-      <link>http://localhost:1313/tags/career/</link>
+      <link>http://localhost:52076/tags/career/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/career/</guid>
+      <guid>http://localhost:52076/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Growth</title>
-      <link>http://localhost:1313/tags/growth/</link>
+      <link>http://localhost:52076/tags/growth/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/growth/</guid>
+      <guid>http://localhost:52076/tags/growth/</guid>
       <description></description>
     </item>
     <item>
       <title>Influence</title>
-      <link>http://localhost:1313/tags/influence/</link>
+      <link>http://localhost:52076/tags/influence/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/influence/</guid>
+      <guid>http://localhost:52076/tags/influence/</guid>
       <description></description>
     </item>
     <item>
       <title>Visibility</title>
-      <link>http://localhost:1313/tags/visibility/</link>
+      <link>http://localhost:52076/tags/visibility/</link>
       <pubDate>Sat, 12 Jul 2025 17:45:00 +0530</pubDate>
-      <guid>http://localhost:1313/tags/visibility/</guid>
+      <guid>http://localhost:52076/tags/visibility/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Tools</title>
-      <link>http://localhost:1313/tags/ai-tools/</link>
+      <link>http://localhost:52076/tags/ai-tools/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-tools/</guid>
+      <guid>http://localhost:52076/tags/ai-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Copilot</title>
-      <link>http://localhost:1313/tags/copilot/</link>
+      <link>http://localhost:52076/tags/copilot/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/copilot/</guid>
+      <guid>http://localhost:52076/tags/copilot/</guid>
       <description></description>
     </item>
     <item>
       <title>Cursor</title>
-      <link>http://localhost:1313/tags/cursor/</link>
+      <link>http://localhost:52076/tags/cursor/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cursor/</guid>
+      <guid>http://localhost:52076/tags/cursor/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer Productivity</title>
-      <link>http://localhost:1313/tags/developer-productivity/</link>
+      <link>http://localhost:52076/tags/developer-productivity/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer-productivity/</guid>
+      <guid>http://localhost:52076/tags/developer-productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Shipping Fast</title>
-      <link>http://localhost:1313/tags/shipping-fast/</link>
+      <link>http://localhost:52076/tags/shipping-fast/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shipping-fast/</guid>
+      <guid>http://localhost:52076/tags/shipping-fast/</guid>
       <description></description>
     </item>
     <item>
       <title>Leadership</title>
-      <link>http://localhost:1313/tags/leadership/</link>
+      <link>http://localhost:52076/tags/leadership/</link>
       <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/leadership/</guid>
+      <guid>http://localhost:52076/tags/leadership/</guid>
       <description></description>
     </item>
     <item>
       <title>Speaking</title>
-      <link>http://localhost:1313/tags/speaking/</link>
+      <link>http://localhost:52076/tags/speaking/</link>
       <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/speaking/</guid>
+      <guid>http://localhost:52076/tags/speaking/</guid>
       <description></description>
     </item>
     <item>
       <title>Building for India</title>
-      <link>http://localhost:1313/tags/building-for-india/</link>
+      <link>http://localhost:52076/tags/building-for-india/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/building-for-india/</guid>
+      <guid>http://localhost:52076/tags/building-for-india/</guid>
       <description></description>
     </item>
     <item>
       <title>Startups</title>
-      <link>http://localhost:1313/tags/startups/</link>
+      <link>http://localhost:52076/tags/startups/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/startups/</guid>
+      <guid>http://localhost:52076/tags/startups/</guid>
       <description></description>
     </item>
   </channel>

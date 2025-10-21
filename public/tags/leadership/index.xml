@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Leadership on Kaushik Bhat</title>
-    <link>http://localhost:1313/tags/leadership/</link>
+    <link>http://localhost:52076/tags/leadership/</link>
     <description>Recent content in Leadership on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Nov 2024 21:45:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52076/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spoke about my work at a work event</title>
-      <link>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</link>
+      <title>Talk - Scaling AI for CS</title>
+      <link>http://localhost:52076/traces/2024-11-26-rzp-live-talk/</link>
       <pubDate>Tue, 26 Nov 2024 21:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/traces/2024-11-26-rzp-live-talk/</guid>
-      <description>&lt;p&gt;I did a small talk about RAY in a work event. Audience was senior tech folks who were exploring moving to Razorpay. In all my previous talking events, I had to practice a lot and I would not be able to engage the audience quite well. This time, I was talking about something I was building day-in, day-out and I could paoint a great picture of all things that worked and that didn&amp;rsquo;t. I could anticipate all the questions that the audience had in mind and would could intrigue them.&lt;/p&gt;</description>
+      <guid>http://localhost:52076/traces/2024-11-26-rzp-live-talk/</guid>
+      <description>&lt;p&gt;I did a small talk about RAY in a work event. Audience was senior tech folks who were exploring moving to my company. In all my previous talking events, I had to practice a lot and I would not be able to engage the audience quite well. This time, I was talking about something I was building day-in, day-out and I could paint a great picture of all things that worked and that didn&amp;rsquo;t. I could anticipate all the questions that the audience had in mind and would could intrigue them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

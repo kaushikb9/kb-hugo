@@ -6,14 +6,14 @@
     <description>Recent content in Agents on Kaushik Bhat</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 14:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 20:20:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agents for daily work</title>
+      <title>Learning AI - Build your own Agent</title>
       <link>http://localhost:1313/traces/2025-10-20-personal-agents/</link>
-      <pubDate>Mon, 20 Oct 2025 14:20:00 +0000</pubDate>
+      <pubDate>Sun, 21 Sep 2025 20:20:00 +0000</pubDate>
       <guid>http://localhost:1313/traces/2025-10-20-personal-agents/</guid>
-      <description>&lt;p&gt;Thinking about building agents for doing my day to day work&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have been constantly thinking that now is the time to unlearn/learn and build. AI has changed how we think about building, especially green-field projects. While a lead a bunch of AI initiatives at work, I constantly get this feeling that I am myself not building something fresh. So I had this thought if there is room to build something where its very easy for people to build their own agents - lets say you say something on whatsapp and there is a new whatsapp group created where you can chat and get things done. Example: I want to keep researching about whats happening in FPL - transfers, injuries, form etc and keep updating my team. I, as a user of this agentic-platform - could spin up a new &lt;code&gt;agent&lt;/code&gt; that helps me figure these things and take action if needed. Too generic and could get stuck in a lot of hassles. Maybe I am just thinking of this as a learning exercise and dont really see this taking off as a real business model&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

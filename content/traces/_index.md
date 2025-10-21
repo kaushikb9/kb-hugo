@@ -1,7 +1,7 @@
 ---
-title: "Traces, of me"
+title: "Traces (Experimental)"
 layout: "archives"
 ShowReadingTime: false
 ---
 
-These are a blend of my journey - some bits of today-i-learned, small wins and half-formed ideas.  They help me understand the path I've taken and where I'm headed. Each entry is a snapshot in time — a small glimpse into my world, captured in the moment and preserved here for reflection.
+Writing essays takes time. Journaling feels too personal. So I am trying something new — capturing byte-sized thoughts I don’t mind sharing: some interesting things I learned (inspired by [TIL](https://til.simonwillison.net/)), some achievements and few half-baked ideas. Like traces in a system, they show the flow behind my journey - a small glimpse into my world caught in the moment and preserved here for reflection.

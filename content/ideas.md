@@ -18,10 +18,6 @@ This is a public list of ideas I want to work on
     - https://staticman.net/
     - https://cloudcannon.com/jamstack-ecosystem/commenting/
 
-## Project Ideas for documenting life
-- [Personal TIL Board](https://til.hashrocket.com/) 
-- [Achievements of Life](https://achievementsof-life.vercel.app/plxity)
-
 ## Engineering Blog Ideas
 - Walk the talk, if not then write your thoughts
 - Handling burnout, finding motivation and pushing through chaos

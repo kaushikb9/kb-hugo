@@ -14,7 +14,7 @@
   {{- $kindEmoji = "🎯" }}
   {{- $kindLabel = "Win" }}
 {{- else if eq .Params.trace_kind "idea" }}
-  {{- $kindEmoji = "✨" }}
+  {{- $kindEmoji = "🚀" }}
   {{- $kindLabel = "Idea" }}
 {{- end }}
 {{- $scratch.Add "meta" (slice (printf "<span class='kind-badge' title='%s'>%s %s</span>" $kindLabel $kindEmoji $kindLabel)) }}
