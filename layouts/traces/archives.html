@@ -113,8 +113,10 @@ document.addEventListener('DOMContentLoaded', function() {
       // Hide/show year if no visible entries
       if (visibleEntries.length === 0) {
         year.classList.add('hidden');
+        year.style.display = 'none';
       } else {
         year.classList.remove('hidden');
+        year.style.display = '';
       }
     });
 
@@ -129,8 +131,10 @@ document.addEventListener('DOMContentLoaded', function() {
       // Hide/show month if no visible entries
       if (visibleEntries.length === 0) {
         month.classList.add('hidden');
+        month.style.display = 'none';
       } else {
         month.classList.remove('hidden');
+        month.style.display = '';
       }
     });
   }

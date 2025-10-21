@@ -16,7 +16,7 @@ minify:
 
 
 params:
-  mainSections: ["posts", "traces"]
+  mainSections: ["posts"]
   homeInfoParams:
     Title: Hi there 👋🏼
     Content: >
