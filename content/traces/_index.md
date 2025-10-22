@@ -1,5 +1,5 @@
 ---
-title: "Traces // 🔬 Experimental"
+title: "Traces | 🔬 Experimental"
 layout: "archives"
 ShowReadingTime: false
 ---
