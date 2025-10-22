@@ -1,7 +1,7 @@
 ---
-title: "Traces (Experimental)"
+title: "Traces (🔬 Experimental)"
 layout: "archives"
 ShowReadingTime: false
 ---
 
-Writing essays takes time. Journaling feels too personal. So I am trying something new — capturing my thoughts I don’t mind sharing: some interesting things I learned (inspired by [TIL](https://til.simonwillison.net/)), some achievements and few half-baked ideas. Like traces in a system, they show the flow behind my journey - a small glimpse into my world caught in the moment and preserved here for reflection.git 
+Writing essays takes time. Journaling feels too personal. So I am trying something new - capturing my thoughts I don’t mind sharing: interesting things I learned (inspired by [TIL](https://til.simonwillison.net/)), some achievements and few half-baked ideas. Like traces in observability, they show the flow behind my journey. This becomes a small glimpse into my world, caught in the moment and preserved here for reflection
