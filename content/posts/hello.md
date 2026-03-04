@@ -1,6 +1,7 @@
 +++
 title = 'Hello'
 date = 2024-05-01T12:08:51+05:30
+description = "Why I moved my blog to a self-hosted platform and what to expect from this space."
 draft = false
 +++
 

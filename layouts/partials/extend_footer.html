@@ -1,0 +1,24 @@
+{{- /* Reading progress bar for single posts */}}
+{{- if and .IsPage (eq .Section "posts") }}
+<div class="reading-progress" id="reading-progress"></div>
+<script>
+(function() {
+  var bar = document.getElementById('reading-progress');
+  if (!bar) return;
+  window.addEventListener('scroll', function() {
+    var st = window.scrollY;
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = h > 0 ? (st / h * 100) + '%' : '0%';
+  });
+})();
+</script>
+{{- end }}
+
+{{- /* External JS for traces filtering */}}
+{{- if eq .Section "traces" }}
+{{- $tracesJS := resources.Get "js/traces-filter.js" }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $tracesJS = $tracesJS | fingerprint }}
+{{- end }}
+<script defer src="{{ $tracesJS.RelPermalink }}"></script>
+{{- end }}
