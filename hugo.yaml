@@ -29,7 +29,7 @@ params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowCodeCopyButtons: true
 
   label:
