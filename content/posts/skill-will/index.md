@@ -1,6 +1,7 @@
 +++
 title = 'Situational Leadership'
 date = 2024-06-09T14:40:51+05:30
+description = "A practical take on the Situational Leadership framework — knowing when to direct, coach, support, or delegate."
 draft = false
 +++
 

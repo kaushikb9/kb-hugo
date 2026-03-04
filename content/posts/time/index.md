@@ -1,6 +1,7 @@
 +++
 title = 'Debugging Distractions'
 date = 2024-05-05T12:10:09+05:30
+description = "A mental model for protecting your time and focusing on what truly matters — the Zone of Genius framework."
 draft = false
 +++
 

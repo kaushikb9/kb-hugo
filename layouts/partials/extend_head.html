@@ -1,3 +1,6 @@
+{{- /* Favicon */}}
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
 {{- /* Custom CSS for traces section */}}
 {{- if eq .Section "traces" }}
 {{- $tracesCSS := resources.Get "css/traces.css" }}
@@ -7,3 +10,14 @@
 <link crossorigin="anonymous" href="{{ $tracesCSS.RelPermalink }}" rel="stylesheet">
 {{- end }}
 
+{{- /* Reading progress bar for single posts */}}
+{{- if and .IsPage (eq .Section "posts") }}
+<style>
+  .reading-progress { position: fixed; top: 0; left: 0; width: 0%; height: 3px; background: var(--primary); z-index: 999; transition: width 50ms linear; }
+</style>
+{{- end }}
+
+{{- /* Cloudflare Web Analytics - replace YOUR_CF_ANALYTICS_TOKEN with your actual token */}}
+{{- if not .Site.IsServer }}
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "YOUR_CF_ANALYTICS_TOKEN"}'></script>
+{{- end }}

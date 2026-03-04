@@ -5,7 +5,7 @@ pagination:
 theme: PaperMod
 
 
-enableRobotsTXT: true
+enableRobotsTXT: false # using static/robots.txt instead
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -17,19 +17,30 @@ minify:
 
 params:
   mainSections: ["posts"]
+  description: "Byte-sized ramblings on engineering management, productivity and personal growth — by Kaushik Bhat"
+  images:
+    - "/favicon.svg"
   homeInfoParams:
     Title: Hi there 👋🏼
     Content: >
       Byte-sized ramblings on engineering management, productivity and personal growth
-  
+
   defaultTheme: auto # to switch between dark or light according to browser theme
   ShowReadingTime: true
-  
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+
+  label:
+    text: "Kaushik Bhat"
+    iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32"><rect width="100" height="100" rx="16" fill="currentColor"/><text x="50" y="62" font-family="monospace" font-size="48" font-weight="bold" fill="var(--theme, #fff)" text-anchor="middle">kb</text></svg>'
+
   social:
     twitter: "kaushikb9"
     linkedin: "kaushikbhat"
     github: "kaushikb9"
-  
+
   socialIcons: # optional
     - name: "twitter"
       url: "https://twitter.com/kaushikb9"
