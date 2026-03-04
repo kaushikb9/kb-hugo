@@ -16,9 +16,11 @@
 
 {{- /* External JS for traces filtering */}}
 {{- if eq .Section "traces" }}
-{{- $tracesJS := resources.Get "js/traces-filter.js" }}
+{{- with resources.Get "js/traces-filter.js" }}
+{{- $tracesJS := . }}
 {{- if not site.Params.assets.disableFingerprinting }}
-{{- $tracesJS = $tracesJS | fingerprint }}
+{{- $tracesJS = . | fingerprint }}
 {{- end }}
 <script defer src="{{ $tracesJS.RelPermalink }}"></script>
+{{- end }}
 {{- end }}

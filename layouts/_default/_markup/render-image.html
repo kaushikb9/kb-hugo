@@ -4,7 +4,9 @@
 {{- $src := .Destination }}
 
 {{- with .Page.Resources.GetMatch $src }}
-  {{- if not (strings.HasSuffix .MediaType.SubType "svg") }}
+  {{- if strings.Contains .MediaType.Type "svg" }}
+    <img src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async"{{- with $title }} title="{{ . }}"{{ end }} />
+  {{- else }}
     {{- $processed := . }}
     {{- if gt .Width 800 }}
       {{- $processed = .Resize "800x webp q85" }}
@@ -15,8 +17,6 @@
       <img src="{{ $processed.RelPermalink }}" alt="{{ $alt }}" width="{{ $processed.Width }}" height="{{ $processed.Height }}" loading="lazy" decoding="async"{{- with $title }} title="{{ . }}"{{ end }} />
       {{- with $title }}<figcaption>{{ . }}</figcaption>{{ end }}
     </figure>
-  {{- else }}
-    <img src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async"{{- with $title }} title="{{ . }}"{{ end }} />
   {{- end }}
 {{- else }}
   {{- /* External image or non-page-resource — render as-is with lazy loading */}}

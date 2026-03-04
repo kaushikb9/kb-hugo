@@ -34,7 +34,8 @@ params:
 
   label:
     text: "Kaushik Bhat"
-    iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32"><rect width="100" height="100" rx="16" fill="currentColor"/><text x="50" y="62" font-family="monospace" font-size="48" font-weight="bold" fill="var(--theme, #fff)" text-anchor="middle">kb</text></svg>'
+    icon: "/favicon.svg"
+    iconHeight: 32
 
   social:
     twitter: "kaushikb9"
