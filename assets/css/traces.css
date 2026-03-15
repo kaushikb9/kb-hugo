@@ -151,6 +151,33 @@
   font-weight: 500;
 }
 
+/* Per-type badge accent colors */
+.kind-badge--spark {
+  background: rgba(20, 184, 166, 0.15);
+  color: #0f766e;
+}
+
+.kind-badge--reflect {
+  background: rgba(245, 158, 11, 0.15);
+  color: #b45309;
+}
+
+.kind-badge--peak {
+  background: rgba(139, 92, 246, 0.15);
+  color: #7c3aed;
+}
+
+.kind-badge--flag {
+  background: rgba(239, 68, 68, 0.15);
+  color: #dc2626;
+}
+
+/* Dark mode overrides */
+.dark .kind-badge--spark  { background: rgba(20, 184, 166, 0.2); color: #5eead4; }
+.dark .kind-badge--reflect { background: rgba(245, 158, 11, 0.2); color: #fcd34d; }
+.dark .kind-badge--peak   { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; }
+.dark .kind-badge--flag   { background: rgba(239, 68, 68, 0.2);  color: #fca5a5; }
+
 /* Hidden state for filtered entries */
 .traces .archive-entry.hidden,
 .archive-entry.hidden {

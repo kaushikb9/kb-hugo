@@ -2,7 +2,7 @@
 title: "Learning AI - Build your own Agent"
 date: 2025-09-21T20:20:00Z
 type: "traces"
-trace_kind: "idea"
+trace_kind: "spark"
 tags: ["ai", "productivity", "agents"]
 public: true
 ---

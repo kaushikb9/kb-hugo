@@ -2,7 +2,7 @@
 title: "Talk - Scaling AI for CS"
 date: 2024-11-26T21:45:00Z
 type: "traces"
-trace_kind: "win"
+trace_kind: "peak"
 tags: ["speaking", "leadership", "ai"]
 public: true
 ---

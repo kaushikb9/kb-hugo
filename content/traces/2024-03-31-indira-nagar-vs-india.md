@@ -2,7 +2,7 @@
 title: "An outage showed me who is the real consumer"
 date: 2024-03-31
 type: "traces"
-trace_kind: "til"
+trace_kind: "reflect"
 tags: ["startups", "building for India"]
 public: true
 

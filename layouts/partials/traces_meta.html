@@ -7,17 +7,20 @@
 {{- if .Params.trace_kind -}}
 {{- $kindEmoji := "" }}
 {{- $kindLabel := "" }}
-{{- if eq .Params.trace_kind "til" }}
-  {{- $kindEmoji = "🧠" }}
-  {{- $kindLabel = "TIL" }}
-{{- else if eq .Params.trace_kind "win" }}
-  {{- $kindEmoji = "🎯" }}
-  {{- $kindLabel = "Win" }}
-{{- else if eq .Params.trace_kind "idea" }}
-  {{- $kindEmoji = "🚀" }}
-  {{- $kindLabel = "Idea" }}
+{{- if eq .Params.trace_kind "spark" }}
+  {{- $kindEmoji = "⚡" }}
+  {{- $kindLabel = "Spark" }}
+{{- else if eq .Params.trace_kind "reflect" }}
+  {{- $kindEmoji = "🪞" }}
+  {{- $kindLabel = "Reflect" }}
+{{- else if eq .Params.trace_kind "peak" }}
+  {{- $kindEmoji = "🏔️" }}
+  {{- $kindLabel = "Peak" }}
+{{- else if eq .Params.trace_kind "flag" }}
+  {{- $kindEmoji = "🚩" }}
+  {{- $kindLabel = "Flag" }}
 {{- end }}
-{{- $scratch.Add "meta" (slice (printf "<span class='kind-badge' title='%s'>%s %s</span>" $kindLabel $kindEmoji $kindLabel)) }}
+{{- $scratch.Add "meta" (slice (printf "<span class='kind-badge kind-badge--%s' title='%s'>%s %s</span>" .Params.trace_kind $kindLabel $kindEmoji $kindLabel)) }}
 {{- end }}
 
 {{- if not (.Param "hideAuthor") -}}
