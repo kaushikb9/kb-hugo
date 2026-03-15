@@ -1,0 +1,31 @@
+content/traces/_index.md
+  9ea48a524913db0c 7
+content/traces/2025-10-20-personal-agents.md
+  9ea48a524913db0c 5
+layouts/traces/archives.html
+  9ea48a524913db0c 44-47
+layouts/partials/traces_meta.html
+  9ea48a524913db0c 10-21,23
+assets/css/traces.css
+  9ea48a524913db0c 154-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "3660e8798e189ee1992934970a7f365313b910a8",
+  "prompts": {
+    "9ea48a524913db0c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6cc0aa1d-e518-4c69-add8-1f23f0adb4cf",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "kaushikb9 <kaushik.bhat@gmail.com>",
+      "messages": [],
+      "total_additions": 49,
+      "total_deletions": 18,
+      "accepted_lines": 46,
+      "overriden_lines": 0
+    }
+  }
+}
